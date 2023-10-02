@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "cd26363d14937821",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ee1ae2625c99f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7578f9a2dee73af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🎓Secondary 5/Français/Réalisme.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df9887d43d6b732c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f8f8ab81215b394b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "06bda8fea5f451b7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "730b39822055ff8f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "08bc9a807ba9fd68",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "231b7c5969074a02",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "333f88ecbf5871c5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "🎓Secondary 5/Français/Réalisme.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d8b37a0331fca1f5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "🎓Secondary 5/Français/Réalisme.md"
+          }
+        }
+      },
+      {
+        "id": "ae314a681c0ec466",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "5708fa5a070d65fc",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "7578f9a2dee73af0",
+  "lastOpenFiles": [
+    "🎓Secondary 5/Français/La dame aux Camélias.md",
+    "🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
+    "🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
+    "🎓Secondary 5/Mathématiques/Réciproque.md",
+    "🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "🎓Secondary 5/Monde/Normes de travail.md",
+    "🎓Secondary 5/Français/Romantisme.md",
+    "🎓Secondary 5/Français/Réalisme.md",
+    "🎓Secondary 5/English/The Five People You Meet in Heaven.md",
+    "🎓Secondary 5/Monde/P.md",
+    "🎓Secondary 5/Sciences/Onde.md",
+    "🎓Secondary 5/Sciences/Kelvin.md",
+    "🎓Secondary 5/Sciences/Rapport de laboratoire.md",
+    "🎓Secondary 5/Sciences/Pression.md",
+    "🎓Secondary 5/CCQ/Ambiguïté.md",
+    "🎓Secondary 5/CCQ/Ambivalence.md",
+    "🎓Secondary 5/CCQ/Dilemme moral.md",
+    "LICENSE.md",
+    "🎓Secondary 5/Monde",
+    "📙Secondary 4/Sciences/Dissolution - ppm.md",
+    "📙Secondary 4/Sciences/Énergie - Cinétique.md",
+    "📙Secondary 4/Sciences/Électricité - Électricité statique.md",
+    "📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
+    "📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
+    "📙Secondary 4/Sciences/Modèles atomiques - Liaisons chimiques.md",
+    "📙Secondary 4/Sciences/Modèles atomiques - Classification périodique.md",
+    "📙Secondary 4/Sciences/Limites planétaires - Pluies acides.md",
+    "📙Secondary 4/Sciences/Révision finale.canvas",
+    "📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
+    "Untitled",
+    "🎓Secondary 5/English",
+    "🎓Secondary 5/CCQ",
+    "🎓Secondary 5/Mathématiques",
+    "🎓Secondary 5/Français",
+    "Data/IMG_0002.jpeg",
+    "Data/IMG_0001.jpeg",
+    "🎓Secondary 5/Sciences",
+    "🎓Secondary 5",
+    "📙Secondary 4",
+    "📙Secondary 4/Histoire",
+    "Data/Liaison covalente.jpeg",
+    "Data/Liaison ionique 2.jpeg",
+    "Data/Liaison ionique 1.jpeg",
+    "Data/Notation de Berzelius.png"
+  ]
+}

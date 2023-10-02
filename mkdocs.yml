@@ -1,11 +1,11 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Study Notes
+site_description: Hifumi's study notes
+site_url: https://make-upworkclub.github.io/Study-Notes
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/logo.png
+    favicon: assets/meta/logo.png
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -16,8 +16,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -25,8 +25,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -122,7 +122,7 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  SEO: assets/meta/SEO.png
+  # SEO: assets/meta/SEO.png
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
@@ -134,4 +134,4 @@ extra:
     no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
   hooks:
     strip_comments: true
-    fix_heading: true
+    fix_heading: false

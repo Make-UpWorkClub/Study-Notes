@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
     paths: 
       - 'README.md'
       - 'overrides/**'
@@ -22,3 +22,5 @@ jobs:
     uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      AUTHOR_NAME: Hifumi
+      AUTHOR_EMAIL: hifumi@peroro.club

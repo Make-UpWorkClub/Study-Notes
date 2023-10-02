@@ -8,5 +8,8 @@ jobs:
     uses: ObsidianPublisher/actions/.github/workflows/update.yml@main
     with:
       AUTO_MERGE: false
+      BASE_BRANCH: master
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      AUTHOR_NAME: Hifumi
+      AUTHOR_EMAIL: hifumi@peroro.club
