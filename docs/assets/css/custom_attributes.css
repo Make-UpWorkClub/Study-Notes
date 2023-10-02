@@ -1,0 +1,25 @@
+/* File dedicated to custom attributes */
+/* Get more info here : https://pypi.org/project/mkdocs-custom-tags-attributes/ */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #eeb851;
+  --md-primary-fg-color--light: #f1e8a3;
+  --md-primary-fg-color--dark: #eeb851;
+
+  --md-accent-fg-color: #df6868;
+  --md-accent-fg-color--transparent: #df6868;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #f1e8a3;
+  --md-primary-fg-color--light: #f1e8a3;
+  --md-primary-fg-color--dark: #eeb851;
+
+  --md-accent-fg-color: #f0bcbf;
+  --md-accent-fg-color--transparent: #f0bcbf;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  color: #0000008a;
+}
