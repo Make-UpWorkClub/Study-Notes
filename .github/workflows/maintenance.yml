@@ -12,3 +12,5 @@ jobs:
       DRY_RUN: false
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      AUTHOR_NAME: Hifumi
+      AUTHOR_EMAIL: hifumi@peroro.club

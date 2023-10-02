@@ -1,12 +1,12 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: Study Notes
+site_description: Hifumi's study notes
+site_url: https://make-upworkclub.github.io/Study-Notes
+site_author: Hifumi
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/logo.png
+    favicon: assets/meta/logo.png
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -17,8 +17,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -26,8 +26,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -123,9 +123,9 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  SEO: assets/meta/SEO.png
-  comments: $comments #disable comments globally
-  generate_graph: $generate_graph #generate the graph of the site
+  # SEO: assets/meta/SEO.png
+  comments: false #disable comments globally
+  generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
   no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
   blog_list:
@@ -135,4 +135,4 @@ extra:
     no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
   hooks:
     strip_comments: true
-    fix_heading: true
+    fix_heading: false

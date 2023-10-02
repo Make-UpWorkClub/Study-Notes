@@ -40,4 +40,5 @@ jobs:
       dry_run: ${{ inputs.dry_run}}
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-
+      AUTHOR_NAME: Hifumi
+      AUTHOR_EMAIL: hifumi@peroro.club
