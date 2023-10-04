@@ -21,7 +21,10 @@
   "userIgnoreFilters": [
     "LICENSE.md",
     "README.md",
-    "Templates/"
+    "Templates/",
+    "overrides/",
+    "graph.md",
+    "tags.md"
   ],
   "newFileLocation": "current",
   "livePreview": false,
