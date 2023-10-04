@@ -54,3 +54,7 @@ Armand et Gaston rencontrent Prudence, la modiste et voisine de Marguerite, à l
 ### IX
 
 Armand se présente à Marguerite. Ensuite, Il visite l’appartement avec Prudence. Quand ils reviennent, ils attrapent Marguerite qui refuse la confession de Gaston. Lors du souper, Marguerite boit excessivement jusqu’à ce qu’elle crache le sang et court dans la toilette. Armand la suit.
+
+### X
+
+Armand veut rester auprès de Marguerite pour la soigner, mais elle lui suggère de la quitter s'il l'aime. Il insiste. Elle révèle qu'elle est une prostituée.

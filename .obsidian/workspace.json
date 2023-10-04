@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "cae6c5f5d34c1a49",
+  "active": "8dc4a85539d27098",
   "lastOpenFiles": [
+    "docs/tags.md",
+    "docs/graph.md",
+    "README.md",
     "lib/vis-9.1.2",
     "lib/tom-select",
     "lib/bindings",
@@ -163,11 +166,8 @@
     "lib/tom-select/tom-select.css",
     "lib/tom-select/tom-select.complete.min.js",
     "lib/bindings/utils.js",
-    "docs/graph.md",
-    "docs/tags.md",
     "lib/vis-9.1.2/vis-network.min.js",
     "lib/vis-9.1.2/vis-network.css",
-    "README.md",
     "encryptcontent.cache",
     "docs/assets/meta/logo.png",
     "conflict-files-obsidian-git.md",
