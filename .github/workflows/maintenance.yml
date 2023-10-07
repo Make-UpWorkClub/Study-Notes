@@ -10,6 +10,7 @@ jobs:
     with:
       CLEAN: false
       DRY_RUN: false
+      BRANCH: master
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
       AUTHOR_NAME: Hifumi
