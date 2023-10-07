@@ -29,7 +29,7 @@
           shellHook = ''
             python -m venv .venv
             source .venv/bin/activate
-            pip install -qr requirements.txt
+            pip install -r requirements.txt
           '';
         };
       };

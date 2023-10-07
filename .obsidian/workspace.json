@@ -11,11 +11,11 @@
             "id": "8dc4a85539d27098",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".github/workflows/maintenance.yml",
-                "staged": false,
-                "hash": "a287dfbdc73e3c833b4f7c424072e70436f7461e"
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -96,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md"
+              }
             }
           },
           {
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +137,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "804c0437b09b3944",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0180d079eaaa2119",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,9 +154,8 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "804c0437b09b3944",
+  "active": "8dc4a85539d27098",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
     "docs/tags.md",
     "docs/graph.md",
     "README.md",
