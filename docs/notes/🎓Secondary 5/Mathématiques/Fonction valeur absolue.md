@@ -5,7 +5,7 @@ date: 2023-09-11
 
 # Fonction valeur absolue
 
-Formule générale: $a|x - h| + k$ 
+Formule générale : $a|x - h| + k$ 
 
 ## Recherche de la règle
 
