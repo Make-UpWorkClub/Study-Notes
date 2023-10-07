@@ -12,8 +12,7 @@ Alexandre Dumas fils (1824-1895)
 - Enfant naturel (né hors mariage entre Alexandre Dumas père et une couturière)
 - Écrivain réaliste
 - Admis à l’académie française
-- Œuvres importantes:
-	- Les Trois mousquetaires
+- Œuvres importantes :
 	- La Dame aux Camélias
 
 ## Personnages
