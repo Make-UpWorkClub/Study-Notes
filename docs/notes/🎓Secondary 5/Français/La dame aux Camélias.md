@@ -14,10 +14,9 @@ Alexandre Dumas fils (1824-1895)
 - Écrivain réaliste
 - Admis à l’académie française
 - Œuvres importantes:
-	- Les Trois mousquetaires
 	- La Dame aux Camélias
 
-## Resumé
+## Résumé
 
 ### I
 
