@@ -5,7 +5,7 @@ date: 2023-09-14
 
 # Fonction racine carrée
 
-Formule générale: $a\sqrt{b(x - h)} + k$
+Formule générale : $a\sqrt{b(x - h)} + k$
 
 ## Restrictions
 

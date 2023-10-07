@@ -93,3 +93,11 @@ Eddie learns that when Mickey was fired because of his drinking problem, he trie
 
 > [!quote] Thursday, 11 A.M.
 > Eddie’s funeral was held.
+
+### The Fourth Person Eddie Meets in Heaven
+
+> [!quote] 38th Birthday
+> Contents
+
+> [!quote] 39th Birthday
+> Eddie wins 800$ in horse racing and tells Marguerite. She is not happy and drives to the track to find him, her car is hit by a 

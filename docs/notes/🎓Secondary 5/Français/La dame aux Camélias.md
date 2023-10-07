@@ -3,19 +3,28 @@ keywords: Sec5
 date: 2023-09-11
 ---
 
-# La dame aux Camellias
+# La dame aux Camélias
 
 ## Auteur
 
 Alexandre Dumas fils (1824-1895)
 
-- Enfant naturel (sans parents)
-- Né hors mariage entre Alexandre Dumas père et une couturière
+- Enfant naturel (né hors mariage entre Alexandre Dumas père et une couturière)
 - Écrivain réaliste
 - Admis à l’académie française
 - Œuvres importantes:
 	- Les Trois mousquetaires
 	- La Dame aux Camélias
+
+## Personnages
+
+### Armand
+
+- Naïf
+- Aveuglé d’amour
+- Manque de confiance
+- Jaloux
+- Très dom
 
 ## Resumé
 
@@ -57,4 +66,15 @@ Armand se présente à Marguerite. Ensuite, Il visite l’appartement avec Prude
 
 ### X
 
-Armand veut rester auprès de Marguerite pour la soigner, mais elle lui suggère de la quitter s'il l'aime. Il insiste. Elle révèle qu'elle est une prostituée.
+Armand veut rester auprès de Marguerite pour la soigner, mais elle lui suggère de la quitter s'il l'aime. Il lui confesse son amour. Elle révèle qu'elle a déjà un amant. Il insiste encore. Elle dit qu’elle l’aimera peut-être s’il est confiant, soumis et discret. Il accepte et part.
+
+### XI
+
+Armand alterne entre être confiant et ne pas être confiant. Il ne peut pas dormir. À vingt-deux heures du lendemain, il visite Marguerite. Ils passent leur première nuit ensemble.
+
+### XII
+
+Marguerite chasse Armand parce que le duc vient tous les matins. Il pense que c’est plus difficile de séduire une courtisane qu’une jeune fille. Il pense aussi que c’est difficile pour l’homme qu’une courtisane aime de croire en la sincérité de sa confession d’amour étant donné qu’elle a tant menti. Il rentre bien heureux. Le lendemain, il reçoit la lettre de Marguerite lui ordonnant de venir le soir au Vaudeville. Cependant, il a un si grand désir de la revoir qu’il se rend au Vaudeville à sept heures et la voit avec le Comte de G. Marguerite le rassure, mais il rentre bien malheureux.
+
+### XIII
+

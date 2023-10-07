@@ -43,6 +43,10 @@ Appareils électroniques:
 
 $\%\ d’erreur = |\cfrac{v_{exp.} - v_{théo.}}{v_{théo.}}|$
 
+### Schéma
+
+- Ligne réelle en ligne continue, ligne imaginaire en pointillé
+
 ## Analyse
 
 ### Déduction
