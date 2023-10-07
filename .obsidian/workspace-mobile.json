@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24ee1ae2625c99f1",
+        "id": "6e12dae52e0d7c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "7578f9a2dee73af0",
+            "id": "be2f89dafa3a8a10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "🎓Secondary 5/Français/Réalisme.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
+                "staged": false
               }
             }
           }
@@ -87,7 +85,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🎓Secondary 5/Français/Réalisme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,9 +95,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "🎓Secondary 5/Français/Réalisme.md"
-          }
+          "state": {}
         }
       },
       {
@@ -118,10 +113,33 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "364a3aeb3f14865b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "895938c8236c627c",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,51 +150,57 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "7578f9a2dee73af0",
+  "active": "be2f89dafa3a8a10",
   "lastOpenFiles": [
-    "🎓Secondary 5/Français/La dame aux Camélias.md",
-    "🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
-    "🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
-    "🎓Secondary 5/Mathématiques/Réciproque.md",
-    "🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "🎓Secondary 5/Monde/Normes de travail.md",
-    "🎓Secondary 5/Français/Romantisme.md",
-    "🎓Secondary 5/Français/Réalisme.md",
-    "🎓Secondary 5/English/The Five People You Meet in Heaven.md",
-    "🎓Secondary 5/Monde/P.md",
-    "🎓Secondary 5/Sciences/Onde.md",
-    "🎓Secondary 5/Sciences/Kelvin.md",
-    "🎓Secondary 5/Sciences/Rapport de laboratoire.md",
-    "🎓Secondary 5/Sciences/Pression.md",
-    "🎓Secondary 5/CCQ/Ambiguïté.md",
-    "🎓Secondary 5/CCQ/Ambivalence.md",
-    "🎓Secondary 5/CCQ/Dilemme moral.md",
-    "LICENSE.md",
-    "🎓Secondary 5/Monde",
-    "📙Secondary 4/Sciences/Dissolution - ppm.md",
-    "📙Secondary 4/Sciences/Énergie - Cinétique.md",
-    "📙Secondary 4/Sciences/Électricité - Électricité statique.md",
-    "📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
-    "📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
-    "📙Secondary 4/Sciences/Modèles atomiques - Liaisons chimiques.md",
-    "📙Secondary 4/Sciences/Modèles atomiques - Classification périodique.md",
-    "📙Secondary 4/Sciences/Limites planétaires - Pluies acides.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationelle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
+    "docs/notes/🎓Secondary 5/Monde/Punition.md",
+    "docs/notes/🎓Secondary 5/Monde/Impôts.md",
+    "docs/notes/🎓Secondary 5/Monde/Déclaration de revenus.md",
+    "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
+    "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
+    "docs/notes/🎓Secondary 5/Monde/Capitalisme.md",
+    "docs/notes/🎓Secondary 5/Sciences/Onde.md",
+    "docs/notes/🎓Secondary 5/Sciences/Pression.md",
+    "docs/notes/🎓Secondary 5/Sciences/Théorie cinétique des gaz.md",
+    "docs/notes/🎓Secondary 5/CCQ/Ambivalence.md",
+    "docs/notes/🎓Secondary 5/Sciences/Champ de vision.md",
+    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
+    "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
+    "docs/assets/img/IMG_0051.png",
+    "docs/assets/img/IMG_0001.jpeg",
+    "docs/assets/img/IMG_0050.png",
+    "/docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
+    "docs/assets/meta/logo.png",
+    "docs/notes/📙Secondary 4/Sciences/Limites planétaires - Contamination.md",
+    "docs/notes/📙Secondary 4/Sciences/Énergie - Potentielle.md",
+    "docs/notes/📙Secondary 4/Sciences/Énergie - Mécanique.md",
+    "docs/notes/📙Secondary 4/Sciences/Énergie - Cinétique.md",
+    "docs/notes/📙Secondary 4/Sciences/Électricité - Symboles.md",
+    "docs/notes/📙Secondary 4/Sciences/Électricité - Électricité statique.md",
+    "docs/notes/📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
+    "docs/notes/📙Secondary 4/Sciences/Dissolution - ppm.md",
+    "docs/notes/📙Secondary 4/Sciences/Dissolution - Électrolyte.md",
+    "LICENSE",
+    "shell.nix",
+    "find_unused_media.py",
+    "requirements.txt",
+    "runtime.txt",
+    "flake.nix",
+    "flake.lock",
+    "mkdocs.yml",
+    "exclude.yml",
+    "templates",
+    "docs/assets/img/Liaison covalente.jpeg",
+    "docs/assets/img/Liaison ionique 2.jpeg",
+    "docs/assets/img/Liaison ionique 1.jpeg",
+    "docs/assets/img/Notation de Berzelius.png",
+    "docs/assets/img/IMG_0002.jpeg",
+    "docs/notes/📙Secondary 4/Sciences/Révision finale.canvas",
+    "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "📙Secondary 4/Sciences/Révision finale.canvas",
     "📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
-    "Untitled",
-    "🎓Secondary 5/English",
-    "🎓Secondary 5/CCQ",
-    "🎓Secondary 5/Mathématiques",
-    "🎓Secondary 5/Français",
-    "Data/IMG_0002.jpeg",
-    "Data/IMG_0001.jpeg",
-    "🎓Secondary 5/Sciences",
-    "🎓Secondary 5",
-    "📙Secondary 4",
-    "📙Secondary 4/Histoire",
-    "Data/Liaison covalente.jpeg",
-    "Data/Liaison ionique 2.jpeg",
-    "Data/Liaison ionique 1.jpeg",
-    "Data/Notation de Berzelius.png"
+    "Data/IMG_0002.jpeg"
   ]
 }
