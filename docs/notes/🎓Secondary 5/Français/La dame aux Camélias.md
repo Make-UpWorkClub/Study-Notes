@@ -19,11 +19,11 @@ Alexandre Dumas fils (1824-1895)
 
 ### Armand
 
-- Naïf
-- Aveuglé d’amour
+- Naïf et enfantin
+- Fiévreux d’amour, littéralement et figurément
 - Manque de confiance
 - Jaloux
-- Très dom
+- Très dom...
 
 ## Résumé
 
@@ -73,7 +73,15 @@ Armand alterne entre être confiant et ne pas être confiant. Il ne peut pas dor
 
 ### XII
 
-Marguerite chasse Armand parce que le duc vient tous les matins. Il pense que c’est plus difficile de séduire une courtisane qu’une jeune fille. Il pense aussi que c’est difficile pour l’homme qu’une courtisane aime de croire en la sincérité de sa confession d’amour étant donné qu’elle a tant menti. Il rentre bien heureux. Le lendemain, il reçoit la lettre de Marguerite lui ordonnant de venir le soir au Vaudeville. Cependant, il a un si grand désir de la revoir qu’il se rend au Vaudeville à sept heures et la voit avec le Comte de G. Marguerite le rassure, mais il rentre bien malheureux.
+Marguerite chasse Armand parce que le duc vient tous les matins. Il pense que c’est plus difficile de séduire une courtisane qu’une jeune fille. Il pense aussi que c’est difficile pour l’homme qu’une courtisane aime de croire en la sincérité de sa confession d’amour étant donné qu’elle a tant menti. Il rentre bien heureux. Le lendemain, il reçoit la lettre de Marguerite lui ordonnant de venir le soir au Vaudeville. Cependant, il a un si grand désir de la revoir qu’il se rend au Vaudeville à sept heures et la voit avec le comte de G. Marguerite le rassure, mais il rentre bien malheureux.
 
 ### XIII
+
+Prudence conseille Armand de ne pas être jaloux du comte de G. Elle justifie que le mode de vie de Marguerite requiert l'argent de plusieurs amants. ll trouve qu'elle a raison, mais ne peut empêcher d'éprouver de la peine. Quand le comte part, ils vont dîner chez Marguerite. Cette dernière révèle à Armand un plan de passer l'été à la campagne ensemble, mais il soupçonne que le comte de G. y sera aussi. Le lendemain, il reçoit une lettre de Marguerite qui annonce qu'elle est malade. Il surveille sa porte et voit le comte de G. entrer dans sa maison.
+
+### XIV
+
+Armand décide de quitter Marguerite et de lui rédiger une lettre annonçant son départ, mais il le regrette aussitôt. Il va aux théâtres mais ne voit pas Marguerite. Il rencontre Gaston, qui a vu Marguerite seule à l'Opéra. Il réalise alors la ridiculité de ses inquiétudes et écrit à Marguerite pour demander pardon.
+
+### XV
 

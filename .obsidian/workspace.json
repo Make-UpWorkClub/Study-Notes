@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cbc9a5439536c8c1",
+        "id": "cef05d2d0a2d11e4",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc4a85539d27098",
+            "id": "5adf71c7fee7dade",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".github/workflows/maintenance.yml",
-                "staged": false,
-                "hash": "a287dfbdc73e3c833b4f7c424072e70436f7461e"
+                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
+                "staged": false
               }
             }
           }
@@ -166,7 +165,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "804c0437b09b3944",
+  "active": "5adf71c7fee7dade",
   "lastOpenFiles": [
     "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
     "docs/tags.md",
