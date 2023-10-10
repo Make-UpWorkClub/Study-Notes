@@ -85,3 +85,6 @@ Armand décide de quitter Marguerite et de lui rédiger une lettre annonçant so
 
 ### XV
 
+Prudence et Marguerite visitent Armand. Marguerite lui reproche sa jalousie et son avarice. Elle dit que les amants des prostituées dépensent leur fortune pour leur propre vanité; qu’il leur est défendu d’avoir du cœur; que des amis comme Prudence sont des commensales. Elle le pardonne difficilement. Ensuite ils vont souper.
+
+### XVI
