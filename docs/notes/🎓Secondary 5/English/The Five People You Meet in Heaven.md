@@ -96,8 +96,41 @@ Eddie learns that when Mickey was fired because of his drinking problem, he trie
 
 ### The Fourth Person Eddie Meets in Heaven
 
+Eddie witnesses many wedding scenes until he meets Marguerite.
+
 > [!quote] 38th Birthday
-> Contents
+> Eddie envies Joe’s new job. Marguerite organizes his birthday party with the children.
+
+Eddie walks with Marguerite and tells her how he died.
 
 > [!quote] 39th Birthday
-> Eddie wins 800$ in horse racing and tells Marguerite. She is not happy and drives to the track to find him, her car is hit by a 
+> Eddie wins 800$ in horse racing and tells Marguerite. She is not happy and drives to the track to find him, but she gets in a car accident.
+
+Marguerite was confined to bed for six months. They cancelled the adoption. Eddie stopped betting. Three years later, Marguerite got a brain tumour and died.
+Eddie tells her about everything that happened after her death.
+
+### The Fourth Lesson
+
+After many days, Eddie says goodbye to Marguerite. "Life has to end. Love doesn't."
+
+> [!quote] Friday, 3:15 P.M.
+> Dominguez and an estate attorney visit Eddie's apartment to take legal documents.
+
+### The Fifth Person Eddie Meets in Heaven
+
+Eddie sees thousands of black children playing in the river. He meets Tala.
+
+> [!quote] 51st, 60th, 68th, 75th & 82nd Birthdays
+> 51: on the first birthday without Marguerite, Eddie tries to celebrate.
+> 60: *none*
+> 68: Joe wishes him happy birthday on telephone. He talks about his grand-son and a condominium.
+> 75: *none*
+> 82: Eddie visits the cemetery of his family.
+
+### The Fifth Lesson
+
+Tala says that Eddie killed her in the fire of the base where he was imprisoned. Eddie has a mental breakfast. Afterwards, he washes away her scars. Then, she reveals that he had in fact saved the little girl at the pier and that the hands he felt when he died were hers. At last, he arrives at his heaven: a Ruby Pier filled with visitors he had kept safe throughout his life.
+
+### Epilogue
+
+Ruby Pier continues to operate as normal. Eddie now waits for Amy or Annie in his heaven.
