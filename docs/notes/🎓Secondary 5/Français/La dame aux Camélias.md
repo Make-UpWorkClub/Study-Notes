@@ -25,11 +25,19 @@ Alexandre Dumas fils (1824-1895)
 - Jaloux
 - Très dom...
 
+### Prudence
+
+- Une commensale, fausse amie
+- Vieille
+- Matérielle
+- Une renarde sous le mouton
+- Il faut être Prudent avec elle…
+
 ## Résumé
 
 ### I
 
-Dumas va au ventre des meubles de Marguerite.
+Dumas va à la vente des meubles de Marguerite.
 
 ### II
 
@@ -81,10 +89,20 @@ Prudence conseille Armand de ne pas être jaloux du comte de G. Elle justifie qu
 
 ### XIV
 
-Armand décide de quitter Marguerite et de lui rédiger une lettre annonçant son départ, mais il le regrette aussitôt. Il va aux théâtres mais ne voit pas Marguerite. Il rencontre Gaston, qui a vu Marguerite seule à l'Opéra. Il réalise alors la ridiculité de ses inquiétudes et écrit à Marguerite pour demander pardon.
+Armand décide de quitter Marguerite et de lui rédiger une lettre annonçant son départ, mais il le regrette aussitôt. Il va aux théâtres mais ne voit pas Marguerite. Il rencontre Gaston, qui a vu Marguerite seule à l'Opéra avec un siège vide à côté réservé à lui. Il réalise alors la ridiculité de ses inquiétudes et écrit à Marguerite pour demander pardon.
 
 ### XV
 
 Prudence et Marguerite visitent Armand. Marguerite lui reproche sa jalousie et son avarice. Elle dit que les amants des prostituées dépensent leur fortune pour leur propre vanité; qu’il leur est défendu d’avoir du cœur; que des amis comme Prudence sont des commensales. Elle le pardonne difficilement. Ensuite ils vont souper.
 
 ### XVI
+
+Armand dépense beaucoup d’argent pour Marguerite. Pour rembourser (et comme remède de sa fièvre), il commence à jouer, et ce avec succès. Il entreprend la guérison de Marguerite. Un jour, ils vont à la campagne avec Prudence. Marguerite loue une maison qui plaît à Armand.
+
+### XVII
+
+Marguerite s’installe à la maison de campagne où elle reçoit ses amis tous les jours. Un jour, le duc visite Marguerite pour dîner avec elle, mais se trouve au milieu d’un déjeuner de 15 personnes. Il se sent humilié et partit brusquement. Un jour, il décide de pardonner Marguerite, mais à condition qu’elle abandonne Armand. Elle refuse. Désormais, elle change complètement ses habitudes, rompt avec ses amies et réduit ses dépenses. 
+
+### XVIII
+
+Armand est surpris que Marguerite éprouve des fois de la tristesse. Il découvre que les bijoux ont disparu. Il demande à Prudence, qui révèle que Marguerite a une dette de trente mille francs et qu’elle a vendu tous ses objets de valeur. Elle lui conseille de la laisser fréquenter des amants, mais son amour pour elle ne le permet pas.
