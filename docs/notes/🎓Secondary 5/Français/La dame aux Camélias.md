@@ -106,3 +106,11 @@ Marguerite s’installe à la maison de campagne où elle reçoit ses amis tous 
 ### XVIII
 
 Armand est surpris que Marguerite éprouve des fois de la tristesse. Il découvre que les bijoux ont disparu. Il demande à Prudence, qui révèle que Marguerite a une dette de trente mille francs et qu’elle a vendu tous ses objets de valeur. Elle lui conseille de la laisser fréquenter des amants, mais son amour pour elle ne le permet pas.
+
+### XIX
+
+Marguerite apprend la visite d’Armand chez Prudence. Elle insiste qu’elle paiera ses dettes, car elle ne veux pas être supérieure à Armand dans leur relation. Celui-ci accepte. Il visite le notaire de son père pour transférer une rente à Marguerite. Ils trouvent un appartement à Paris. Marguerite vend ses meubles et paie ses dettes. Huit jours après, le père d’Armand veux lui parler.
+
+### XX
+
+Le père d’Armand le supplie, puis lui ordonne de quitter Marguerite parce que c’est indigne d’avoir une femme entretenue dans la famille et qu’il se méfie des courtisanes. Armand refuse et part.
