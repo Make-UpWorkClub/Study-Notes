@@ -11,10 +11,11 @@
             "id": "73963ae725a73d47",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
-                "staged": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,7 +97,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md"
+          }
         }
       },
       {
@@ -120,6 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,9 +165,11 @@
   },
   "active": "73963ae725a73d47",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
+    "docs/notes/🎓Secondary 5/Sciences/Champ de vision.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationelle.md",
     "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
     "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Réciproque.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
@@ -176,7 +183,6 @@
     "docs/notes/🎓Secondary 5/Sciences/Pression.md",
     "docs/notes/🎓Secondary 5/Sciences/Théorie cinétique des gaz.md",
     "docs/notes/🎓Secondary 5/CCQ/Ambivalence.md",
-    "docs/notes/🎓Secondary 5/Sciences/Champ de vision.md",
     "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
     "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
     "docs/assets/img/IMG_0051.png",
@@ -189,7 +195,6 @@
     "docs/notes/📙Secondary 4/Sciences/Énergie - Cinétique.md",
     "docs/notes/📙Secondary 4/Sciences/Électricité - Symboles.md",
     "docs/notes/📙Secondary 4/Sciences/Électricité - Électricité statique.md",
-    "docs/notes/📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
     "LICENSE",
     "shell.nix",
     "find_unused_media.py",
