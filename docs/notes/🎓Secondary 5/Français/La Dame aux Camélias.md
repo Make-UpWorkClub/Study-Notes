@@ -3,7 +3,7 @@ keywords: Sec5
 date: 2023-09-11
 ---
 
-# La dame aux Camélias
+# La Dame aux Camélias
 
 ## Auteur
 
@@ -114,3 +114,31 @@ Marguerite apprend la visite d’Armand chez Prudence. Elle insiste qu’elle pa
 ### XX
 
 Le père d’Armand le supplie, puis lui ordonne de quitter Marguerite parce que c’est indigne d’avoir une femme entretenue dans la famille et qu’il se méfie des courtisanes. Armand refuse et part.
+
+### XXI
+
+Marguerite persuadé Armand de visiter son père. Aux deux premières visites, il ne peut le trouver. Le troisième jour, il visite Prudence qui semble inquiète de l’absence de Marguerite. Après, il trouve son père et cause avec lui. Celui-ci insiste beaucoup pour qu’Armand parte le lendemain, mais il part néanmoins.
+
+### XXII
+
+Armand arrive chez lui, mais personne ne lui répond. Il entre à l’aide du jardinier. Nanine dit que Marguerite est partie pour Paris. Il soupçonne que Marguerite le trompe ou bien qu’elle veut vendre son mobilier sans l’avertir. Il trouve *Manon Lescaut* ouvert sur la table. À deux heures du matin, il va à Paris à pied même s’il pleuve. Il arrive à l’appartement de Marguerite, mais ne trouve personne. Le portier lui remet une lettre de rupture de Marguerite.
+
+### XXIII
+
+Armand part avec son père. Celui-ci essaye de le distraire, mais il ne cesse de penser à Marguerite et, un mois après, il décide de la revoir à Paris. Il la retrouve heureuse en apparence et se sent humilié. Il décide de se venger. Il visite Prudence et s’enquiert d’Olympe. Puis, il va au bal de Marguerite et la regarde danser avec le comte de N. Il décide de prendre Olympe comme maîtresse et dance avec elle. Marguerite quitte le bal.
+
+### XXIV
+
+Armand gagne le jeu toute la nuit et impressionne Olympe. Après le bal, il se rend chez Olympe et l’achète pour six mille francs. Elle commence à se comporter cruellement envers Marguerite. Marguerite souffre à un tel point qu’elle arrête d’aller au bal et au spectacle. Un jour, elle arrête Olympe qui l’insulte. Celle-ci demande à Armand de lui écrire de la respecter. À deux heures, Prudence se rend chez Armand et lui demande d’arrêter de torturer Marguerite et de la visiter, mais il veut que Marguerite le visite. Celle-ci lui prie de la pardonner. Ils passent la nuit ensemble. Le matin suivant, Armand lui propose de quitter Paris ensemble, mais elle refuse et part. À cinq heures, il se rend rue d’Antin, mais Nanine lui défend d’entrer vu la présence du comte de N. Ivre, il envoie une lettre contenant cinq cents francs à Marguerite. Cette dernière lui renvoie la lettre et part pour l’Angleterre. Armand part voyager en Orient. À Alexandrie, il apprend la maladie de Marguerite et lui écrit. Elle lui écrit la lettre du chapitre IV. Il revient à Paris aussitôt. Après avoir raconté tout cela, Armand montre les notes de Julie Duprat à Dumas.
+
+### XXV
+
+Dans les notes de Julie Duprat, Marguerite explique à Armand que son père lui a écrit et l’a priée de s’éloigner de lui quand il était à Paris parce que leur amour nuit à la réputation de leur famille et au marriage de sa sœur. Elle accepte cette sacrifice et devient la maîtresse du comte de N.
+
+### XXVI
+
+Après avoir reçu la lettre d’Armand, Marguerite rejoint le comte de G. à Londres, où elle meurt avec la compagnie de Julie Duprat.
+
+### XXVII
+
+Dumas et Armand visitent Prudence qui vient de faire faillite parce qu’elle ne peut plus tirer de l’argent à Marguerite. Puis, ils vont voir Julie Duprat. Ensuite, ils vont à la tombe de Marguerite. Après, ils rendent visite au père d’Armand. Finalement, Dumas retourne à Paris et écrit ce livre.

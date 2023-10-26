@@ -8,7 +8,7 @@ date: 2023-10-03 08:31
 
 Une fonction définie par le ratio de 2 polynômes
 
-Forme générale :
+Forme générale (quotient) :
 $$
 \begin{split}
 f(x) &= \cfrac{a_1x + b_1}{a_2x + b_2}\\
