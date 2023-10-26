@@ -15,3 +15,4 @@ La fonction réciproque de $f(x)$ est notée par $f^{-1}(x)$.
 |     Quadratique      |              Non              |
 |    Valeur absolue    |              Non              |
 |    Racine carrée     |              Oui              |
+|     Rationnelle      |              Oui              |
