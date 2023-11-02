@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6973c2e9a2cd90f1",
+        "id": "f36f70e4431fb47f",
         "type": "tabs",
         "children": [
           {
-            "id": "fcaac10684c75f8b",
+            "id": "f6958ea1e7034518",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
-                "staged": false
+                "file": "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -73,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "231b7c5969074a02",
@@ -85,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,7 +97,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/Accords particuliers.md"
+          }
         }
       },
       {
@@ -120,6 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,22 +163,23 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "fcaac10684c75f8b",
+  "active": "f8f8ab81215b394b",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/Français/Accord.md",
+    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
+    "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
+    "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
+    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
+    "docs/notes/🎓Secondary 5/Sciences/Pression.md",
+    "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
+    "docs/notes/🎓Secondary 5/Sciences/Onde.md",
     "docs/notes/🎓Secondary 5/CCQ/Ambiguïté.md",
     "docs/graph.md",
     "docs/notes/🎓Secondary 5/Monde/Capitalisme.md",
     "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
-    "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
-    "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
-    "docs/notes/🎓Secondary 5/Sciences/Onde.md",
-    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
-    "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
-    "docs/notes/🎓Secondary 5/Sciences/Pression.md",
     "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
     "templates/Notion.md",
-    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
-    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
     "docs/notes/🎓Secondary 5/Sciences/Champ de vision.md",
     "docs/notes/📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
     "docs/notes/📙Secondary 4/Sciences/Modèles atomiques - Liaisons chimiques.md",
@@ -185,7 +191,6 @@
     "docs/notes/📙Secondary 4/Sciences/Énergie - Mécanique.md",
     "docs/notes/📙Secondary 4/Sciences/Énergie - Cinétique.md",
     "docs/notes/📙Secondary 4/Sciences/Électricité - Symboles.md",
-    "docs/notes/📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
     "docs/assets/img/IMG_0051.png",
     "docs/assets/img/IMG_0001.jpeg",
     "docs/assets/img/IMG_0050.png",

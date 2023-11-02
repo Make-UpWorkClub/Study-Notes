@@ -7,10 +7,10 @@ date: 2023-10-12 08:20
 
 4 variables :
 
-- Pression $P$
-- Température $T$
-- Volume $V$
-- Quantité $n$
+- Pression $P$ en kPa
+- Température $T$ **en [[kelvin]]**
+- Volume $V$ **en L**
+- Quantité $n$ en mol
 
 ## Lois simples
 
@@ -38,8 +38,21 @@ $P\ \alpha\ T\ ou\ k = \cfrac PT$
 
 $V\ \alpha \ n\ ou\ k = \cfrac Vn$
 
+## Loi des gaz parfaits
+
+Loi qui met en relation les 4 variables avec la constante des gaz parfaits
+
+$R = 8.314\cfrac{kPa*L}{mol*K}$
+$R = \cfrac{PV}{nT}$
+
 ## Loi générale des gaz
 
-Loi qui met en relation les 4 variables
+Loi qui met en relation les 4 variables en comparant deux situations
 
-$k = \cfrac{PV}{nT}$
+$\cfrac{P_1V_1}{n_1T_1} = \cfrac{P_2V_2}{n_2T_2}$
+
+## Loi des pressions partielles
+
+Pression d’un mélange de gaz est égale à la somme des pressions des composants
+
+$P_T = P_1 + P_2 + P_3 …$
