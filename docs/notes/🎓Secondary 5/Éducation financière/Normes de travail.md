@@ -1,8 +1,14 @@
+---
+grade: Sec5
+subject: EDUFIN
+date: 2023-11-06 22:49
+---
+
 # Normes de travail
 
 Au Québec, la Loi sur les normes de travail encadre les conditions de travail de la plupart des travailleurs.
 
-## Salaire minimum
+## [[Salaire]] minimum
 
 Taux régulier (2023): 15.25$
 Taux au pourboire (2023): 12.20$
@@ -26,8 +32,8 @@ Taux au pourboire (2023): 12.20$
 
 Les employeurs peuvent demander à leur personnel de travailler un jour férié en échange de l’un des dédommagements:
 
-- un jour de congé $\pm$ 3w
-- indemnité d’1j de travail
+- Un jour de congé $\pm$ 3w
+- Indemnité d’1j de travail
 
 ## Durée de travail
 

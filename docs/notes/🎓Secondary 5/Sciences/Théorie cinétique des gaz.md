@@ -1,3 +1,9 @@
+---
+grade: Sec5
+subject: CHI
+date: 2023-11-06 23:13
+---
+
 # Théorie cinétique des gaz
 
 1. Les particules de gaz sont très espacées les unes des autres.

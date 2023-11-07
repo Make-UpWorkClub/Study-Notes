@@ -1,3 +1,9 @@
+---
+grade: Sec5
+subject: PHY
+date: 2023-11-06 23:12
+---
+
 # Onde
 
 Vibration qui se propage dans un milieu.
