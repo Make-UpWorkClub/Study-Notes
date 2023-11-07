@@ -1,10 +1,16 @@
+---
+grade: Sec5
+subject: PHY
+date: 2023-11-06 23:13
+---
+
 # Réflexion
 
 ## Réflexion spéculaire
 
 La lumière est réfléchie par un miroir en respectant l’ordre de façon à créer une image.
 
-> [!abstract] Image
+> [!abstract]+ Image
 > Illusion crée par une réflexion spéculaire.
 > 
 > Propriétés :

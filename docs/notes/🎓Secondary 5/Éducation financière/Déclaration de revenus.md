@@ -1,3 +1,9 @@
+---
+grade: Sec5
+subject: EDUFIN
+date: 2023-11-06 22:48
+---
+
 # Déclaration de revenus
 
 - 18+ : obligatoire, 17- : optionnelle

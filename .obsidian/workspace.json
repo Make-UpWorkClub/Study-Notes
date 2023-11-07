@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cef05d2d0a2d11e4",
+        "id": "ce1064b70b8d0fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "5adf71c7fee7dade",
+            "id": "958447bf86dc4949",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -69,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.00043487548828
+    "width": 276.00271224975586
   },
   "right": {
     "id": "c6fc17e22db4e4c6",
@@ -154,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +163,36 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5adf71c7fee7dade",
+  "active": "958447bf86dc4949",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Français/La dame aux Camélias.md",
-    "docs/tags.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Utilitarisme.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Universalisme.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Stades de développement moral Kohlberg.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Éthique de la vertu.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Dilemme moral.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambivalence.md",
+    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambiguïté.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Impôts.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Fiscalité.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Déclaration de revenus.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationelle.md",
+    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Salaire.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Punition.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Normes de travail.md",
     "docs/graph.md",
-    "README.md",
+    "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
+    "docs/notes/🎓Secondary 5/Français/Réalisme.md",
+    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
+    "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
+    "docs/notes/📙Secondary 4/Sciences/Dissolution - Électrolyte.md",
+    "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
+    "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",
     "lib/tom-select",
     "lib/bindings",
@@ -180,32 +202,8 @@
     "lib/bindings/utils.js",
     "lib/vis-9.1.2/vis-network.min.js",
     "lib/vis-9.1.2/vis-network.css",
-    "encryptcontent.cache",
     "docs/assets/meta/logo.png",
-    "conflict-files-obsidian-git.md",
-    "templates/Notion.md",
-    "📙Secondary 4/Français/Là où je me terre.md",
-    "docs/notes/📙Secondary 4/Sciences/Énergie - Potentielle.md",
-    "docs/notes/📙Secondary 4/Sciences/Énergie - Mécanique.md",
-    "docs/notes/📙Secondary 4/Sciences/Énergie - Cinétique.md",
-    "docs/notes/📙Secondary 4/Sciences/Électricité - Électricité statique.md",
-    "docs/notes/📙Secondary 4/Sciences/Électricité - Symboles.md",
-    "docs/notes/📙Secondary 4/Sciences/Électricité - Lois de Kirchhoff.md",
-    "docs/notes/📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
     "docs/notes/📙Secondary 4/Sciences/Révision finale.canvas",
-    "docs/notes/📙Secondary 4/Sciences/Modèles atomiques - Liaisons chimiques.md",
-    "docs/notes/📙Secondary 4/Sciences/Modèles atomiques - Classification périodique.md",
-    "docs/notes/📙Secondary 4/Sciences/Limites planétaires - Pluies acides.md",
-    "docs/notes/📙Secondary 4/Sciences/Limites planétaires - Eutrophisation.md",
-    "docs/notes/📙Secondary 4/Sciences/Limites planétaires - Contamination.md",
-    "docs/notes/📙Secondary 4/Sciences/Dissolution - Électrolyte.md",
-    "docs/notes/📙Secondary 4/Sciences/Dissolution - ppm.md",
-    "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
-    "docs/notes/📙Secondary 4/Français/Là où je me terre.md",
-    "🎓Secondary 5/CCQ/Ambiguïté.md",
-    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
-    "docs/notes/🎓Secondary 5/Sciences/Pression.md",
-    "docs/notes/🎓Secondary 5/Sciences/Onde.md",
     "docs/assets/img/IMG_0002.jpeg",
     "docs/assets/img/IMG_0001.jpeg",
     "📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
