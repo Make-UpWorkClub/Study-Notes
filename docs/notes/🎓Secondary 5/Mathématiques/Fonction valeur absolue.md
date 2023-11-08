@@ -6,7 +6,8 @@ date: 2023-09-11
 
 # Fonction valeur absolue
 
-Formule générale : $a|x - h| + k$ 
+Formule générale : $a|x - h| + k$
+[[Réciproque]] : non
 
 ## Recherche de la règle
 

@@ -7,6 +7,7 @@ date: 2023-09-14
 # Fonction racine carrée
 
 Formule générale : $a\sqrt{b(x - h)} + k$
+[[Réciproque]] : fonction quadratique
 
 ## Restrictions
 

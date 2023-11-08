@@ -4,7 +4,7 @@ subject: MAT
 date: 2023-10-03 08:31
 ---
 
-# Fonction rationelle
+# Fonction rationnelle
 
 Une fonction définie par le ratio de 2 polynômes
 
@@ -22,6 +22,8 @@ $f(x) = \cfrac{a}{x - h} + k$ *ou* $\cfrac{a'}{b(x - h)} + k$
 
 « Forme produit » :
 $a = (x - h)(y - k)$
+
+[[Réciproque]] : oui
 
 > [!abstract] Hyperbole
 > Un type de section conique, une courbe qui s’approche de deux asymptotes.

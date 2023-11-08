@@ -1,6 +1,6 @@
 ---
 grade: Sec5
-subject: EDUFIN
+subject: EDFIN
 date: 2023-11-06 22:58
 ---
 
