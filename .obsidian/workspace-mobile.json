@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d8804b98391cdd",
+        "id": "c8c1c551d740d008",
         "type": "tabs",
         "children": [
           {
-            "id": "cf963a894922cd25",
+            "id": "40be74e6fef74bfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
-                "mode": "source",
+                "file": "docs/notes/🎓Secondary 5/English/Comma.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "w",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
+            "file": "docs/notes/🎓Secondary 5/English/Comma.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/La Métamorphose.md"
+            "file": "docs/notes/🎓Secondary 5/English/Comma.md"
           }
         }
       },
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
+            "file": "docs/notes/🎓Secondary 5/English/Comma.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,36 +163,36 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "cf963a894922cd25",
+  "active": "f8f8ab81215b394b",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
-    "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
+    "docs/notes/🎓Secondary 5/English/Capitalization.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/English/Comma.md",
+    "docs/notes/🎓Secondary 5/English/temp.md",
+    "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Réciproque.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Déclaration de revenus.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Salaire.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Punition.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Normes de travail.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Impôts.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Fiscalité.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Chômage.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Punition.md",
+    "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
+    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Déclaration de revenus.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Salaire.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Normes de travail.md",
     "docs/notes/🎓Secondary 5/Monde/Impôts.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambivalence.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambiguïté.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Éthique de la vertu.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Stades de développement moral Kohlberg.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Visées éthiques.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Universalisme.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Utilitarisme.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Dilemme moral.md",
     "docs/notes/🎓Secondary 5/Éducation financière",
-    "/templates/Notion.md",
-    "/docs/notes/📙Secondary 4/Sciences/Énergie - Potentielle.md",
     "/docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/assets/img/IMG_0051.png",
