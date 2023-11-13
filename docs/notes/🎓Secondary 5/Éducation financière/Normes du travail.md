@@ -47,4 +47,6 @@ Les employeurs peuvent demander à leur personnel de travailler un jour férié 
 
 - Maladie ou accident : max. 26w / année d’absence en conservant le poste (sans salaire)
 - Raisons familiales : max. 10j / année (sans salaire)
-- Congé de maternité : 18w, congé de paternité : 5w, congé parental (qui peut être pris par le père ou la mère) : max. 78w (sans salaire)
+- Congé de maternité : 18w
+- Congé de paternité : 5w
+- Congé parental (qui peut être pris par le père ou la mère) : max. 78w (sans salaire)
