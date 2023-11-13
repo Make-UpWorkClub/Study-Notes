@@ -14,8 +14,8 @@ Partie du revenu mise à côté pour la dépenser plus tard
 > [!abstract] Intérêts
 > Types :
 > 
-> - *Simple* : calculé uniquement sur le capital
-> - *Composé* : calculé sur le capital et sur les intérêts générés (les intérêts sont réinvestis)
+> - *Simples* : calculés uniquement sur le capital
+> - *Composés* : calculés sur le capital et sur les intérêts générés (les intérêts sont réinvestis)
 
 > [!abstract]+ Gain en capital
 > Profit réalisé en vendant un bien plus cher que le prix payé
