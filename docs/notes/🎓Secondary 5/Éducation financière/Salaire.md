@@ -6,14 +6,14 @@ date: 2023-11-06 22:52
 
 # Salaire
 
-Types de salaire:
+Types :
 
 - Fixe (annuelle)
 - Horaire
 - À contrat
 - À la commission
 
-Influencé par:
+Influencé par :
 
 - Ancienneté
 - Compétences et qualifications
