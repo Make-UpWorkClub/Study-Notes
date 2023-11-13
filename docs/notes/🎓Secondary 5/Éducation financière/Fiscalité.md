@@ -6,7 +6,7 @@ date: 2023-11-06 22:49
 
 # Fiscalité
 
-Ensemble des règles, des lois et des pratiques concernant la perception des [[impôts]], des taxes et des autres prélèvements obligatoires.
+Ensemble des règles, des lois et des pratiques concernant la perception des [[Impôt|impôts]], des [[Taxe|taxes]] et des autres prélèvements obligatoires.
 
 ## Prélèvements
 
@@ -22,7 +22,7 @@ H(Impôt provincial) ---|17183$| J(14%) ---|49275$| K(19%) ---|98540$| L(24%) --
 
 ~7% du salaire
 
-- Assurance Emploi (AE)
+- [[Assurance-emploi]] (AE)
 - Régime québécois d’assurance parentale (RQAP)
 - Régime de rentes du Québec (RRQ) (<3500$)
 
@@ -31,9 +31,9 @@ H(Impôt provincial) ---|17183$| J(14%) ---|49275$| K(19%) ---|98540$| L(24%) --
 Fédéral : 5%
 Provincial : 9.975%
 
-## Types de réduction d'impôts
+## Types de réduction fiscale
 
-Pour payer moins d'impôts...
+Pour payer moins d'impôts et de taxes...
 
 ### Planification fiscale
 

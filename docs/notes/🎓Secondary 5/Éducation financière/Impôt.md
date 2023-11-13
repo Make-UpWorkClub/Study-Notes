@@ -4,7 +4,7 @@ subject: EDFIN
 date: 2023-11-07 00:41
 ---
 
-# Impôts
+# Impôt
 
 Prélèvement sur le revenu des contribuables
 

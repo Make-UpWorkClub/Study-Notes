@@ -6,7 +6,7 @@ date: 2023-11-09 08:20
 
 # Chômage
 
-Types:
+Types :
 
 - *Frictionnel* : occasionnel, temporaire ou volontaire
 - *Conjoncturel* : dépend de l’activité économique

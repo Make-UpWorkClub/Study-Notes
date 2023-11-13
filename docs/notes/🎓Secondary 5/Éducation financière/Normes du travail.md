@@ -4,14 +4,14 @@ subject: EDFIN
 date: 2023-11-06 22:49
 ---
 
-# Normes de travail
+# Normes du travail
 
-Au Québec, la Loi sur les normes de travail encadre les conditions de travail de la plupart des travailleurs.
+Au Québec, la Loi sur les normes du travail encadre les conditions du travail de la plupart des travailleurs.
 
 ## [[Salaire]] minimum
 
-Taux régulier (2023): 15.25$
-Taux au pourboire (2023): 12.20$
+Taux régulier (2023): 15.25\$
+Taux au pourboire (2023): 12.20\$
 
 - Certains emplois sont calculés selon le rendement, e.g. cueilleurs de fraises et de framboises.
 - Les avantages fournis par les employeurs, e.g. l’accès à une voiture, ne peuvent pas réduire le salaire sous le minimum.
@@ -37,4 +37,14 @@ Les employeurs peuvent demander à leur personnel de travailler un jour férié 
 
 ## Durée de travail
 
-- Pause de 
+- Pause de 30m après 5h de travail consécutives (sans salaire)
+- Période de repos de 32h consécutives / w
+- L’employé peut refuser de travailler > 4h au-delà de ses heures quotidiennes habituelles ou > 50h / w
+	- Il ne peut pas refuser si cela met en danger la vie de ses collègues ou de la population
+- Les heures > 40h sont payés à 150%
+
+## Absences
+
+- Maladie ou accident : max. 26w / année d’absence en conservant le poste (sans salaire)
+- Raisons familiales : max. 10j / année (sans salaire)
+- Congé de maternité : 18w, congé de paternité : 5w, congé parental (qui peut être pris par le père ou la mère) : max. 78w (sans salaire)
