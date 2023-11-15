@@ -6,8 +6,6 @@ date: 2023-11-08 13:36
 
 # La Métamorphose
 
-## Vocabulaire de nourriture
-
 ## Personnages
 
 ## Résumé
@@ -18,4 +16,4 @@ Gregor Samsa se réveille un cancrelat. Il manque son train. Sa mère frappe à 
 
 ### II
 
-Gregor se réveille et trouve sa boisson préférée : du lait sucré donné par Grete; cependant, il le refuse avec dégoût, car il ne peut plus le sentir. Le matin, Grete lui apporte des nourritures à essayer dont Gregor mange celles pourris.
+Gregor se réveille et trouve sa boisson préférée : du lait sucré donné par Grete; cependant, il le refuse avec dégoût, car il ne peut plus le sentir. Le matin, Grete lui apporte des nourritures à essayer dont Gregor mange celles pourris. Désormais, il reçoit deux repas par jour.
