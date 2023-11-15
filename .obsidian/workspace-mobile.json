@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f76730c50aae2b43",
+        "id": "7c2facdc2a8c64b7",
         "type": "tabs",
         "children": [
           {
-            "id": "df0280c620143c60",
+            "id": "31c7212685d016f1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Éducation financière/Normes du travail.md",
-                "staged": false
+                "file": "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,7 +97,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md"
+          }
         }
       },
       {
@@ -120,6 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,8 +163,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "895938c8236c627c",
+  "active": "31c7212685d016f1",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
+    "docs/notes/🎓Secondary 5/English/Capitalization.md",
+    "docs/notes/🎓Secondary 5/English/Comma.md",
     "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
@@ -171,7 +182,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Déclaration de revenus.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Chômage.md",
     "docs/notes/📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
-    "docs/notes/🎓Secondary 5/English/Capitalization.md",
     "docs/notes/🎓Secondary 5/Français/Romantisme.md",
     "docs/notes/🎓Secondary 5/Français/Réalisme.md",
     "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
@@ -181,11 +191,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Salaire.md",
     "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
     "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
-    "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
-    "docs/notes/🎓Secondary 5/English/Comma.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "docs/notes/🎓Secondary 5/English/temp.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Éducation financière",
