@@ -32,3 +32,16 @@ La lumière est réfléchie par un miroir en respectant l’ordre de façon à c
 ## Réflexion diffuse
 
 La lumière est réfléchie par une surface raboteuse. Les lignes normales ne sont pas perpendiculaires à la surface, donc aucune image n’est formée.
+
+## Réflexion totale interne
+
+En passant à un milieu dont l’indice de réfraction est moins élevé, la lumière ne peut pas être réfractée parce que $\theta_r > 90\degree$. Elle est donc réfléchie.
+
+$\sin\theta_c = \cfrac{n_2}{n_1}$ où
+
+- $n_1$ = indice de réfraction du 1er milieu
+- $n_2$ = indice de réfraction du 2e milieu
+- $\theta_c$ = angle critique
+
+> [!abstract] Angle critique
+> Angle d’incidence pour lequel $\theta_r = 90\degree$. Tout angle d’incidence supérieur produit une réflexion totale interne.
