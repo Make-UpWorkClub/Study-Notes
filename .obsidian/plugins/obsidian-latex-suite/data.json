@@ -10,7 +10,7 @@
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": true,
   "autofractionEnabled": true,
-  "autofractionSymbol": "\\frac",
+  "autofractionSymbol": "\\cfrac",
   "autofractionBreakingChars": "+-=\t",
   "matrixShortcutsEnabled": true,
   "taboutEnabled": true,
