@@ -8,6 +8,10 @@ date: 2023-11-16 08:23
 
 Déviation de la lumière lorsqu’elle traverse d’un milieu à un autre
 
+- $F$ Foyer principal (relié aux rayons parallèles à l’axe principal)
+- $F'$ Foyer secondaire
+- $O$ Centre de la lentille
+
 ## Indice de réfraction
 
 Ratio qui indique à quel point la lumière est ralentie par un milieu
@@ -29,3 +33,5 @@ $n_1\cdot\sin\theta_i = n_2\cdot\sin\theta_r$ où
 - $\theta_r$ = angle de réfraction
 
 ![[Réflexion#Réflexion totale interne]]
+
+## 
