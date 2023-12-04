@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5312ff4543ac7d63",
+        "id": "e39c30366ac898da",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd7ff0a82077ca9",
+            "id": "c0ad0a955af4f12a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -97,9 +92,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "docs/notes/🎓Secondary 5/Sciences/Réfraction.md"
-          }
+          "state": {}
         }
       },
       {
@@ -124,7 +117,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,19 +155,23 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "7bd7ff0a82077ca9",
+  "active": "c0ad0a955af4f12a",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
     "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
+    "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
+    "docs/notes/🎓Secondary 5/English/Capitalization.md",
+    "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/Français/Réalisme.md",
+    "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
     "docs/notes/🎓Secondary 5/Sciences/Théorie cinétique des gaz.md",
     "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
-    "docs/notes/🎓Secondary 5/English/Capitalization.md",
     "docs/notes/🎓Secondary 5/English/Comma.md",
-    "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Épargne.md",
@@ -187,10 +183,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Chômage.md",
     "docs/notes/📙Secondary 4/Sciences/Technologie - Propriétés des matériaux.md",
     "docs/notes/🎓Secondary 5/Français/Romantisme.md",
-    "docs/notes/🎓Secondary 5/Français/Réalisme.md",
-    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
-    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
-    "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Éducation financière",
