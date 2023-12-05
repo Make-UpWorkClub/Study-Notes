@@ -6,8 +6,9 @@ date: 2023-11-08 10:07
 
 # Fonction rationnelle
 
-Forme générale : $aC^x + k$ où $C > 0$ et $C \ne 1$
+Forme générale : $ac^x + k$ où $c > 0$ et $c \ne 1$
 [[Réciproque]] : oui
+[[Asymptote|Asymptotes]] : horizontale
 
 ## Recherche de la règle
 

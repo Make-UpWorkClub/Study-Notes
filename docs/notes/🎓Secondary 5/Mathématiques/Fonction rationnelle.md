@@ -24,14 +24,11 @@ $f(x) = \cfrac{a}{x - h} + k$ *ou* $\cfrac{a'}{b(x - h)} + k$
 $a = (x - h)(y - k)$
 
 [[Réciproque]] : oui
+[[Asymptote|Asymptotes]] : horizontale et verticale
 
 > [!abstract] Hyperbole
 > Un type de section conique, une courbe qui s’approche de deux asymptotes.
 > ![[IMG_0050.png|200]]
-
-> [!abstract] Asymptote
-> Asymptote verticale : $x = h$
-> Asymptote horizontale : $y = k$
 
 ## Recherche de la règle
 
