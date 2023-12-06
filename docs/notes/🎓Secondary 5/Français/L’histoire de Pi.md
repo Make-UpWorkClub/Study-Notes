@@ -48,4 +48,8 @@ Pi décrit son baccalauréat en études religieuses et en zoologie, le paresseux
 
 ### Ch3
 
-Pi décrit ses cours de natation donnés par Mamaji, l’une des relations d’affaires de son père, et la condition des piscines, surtout de la piscine Molitor d’où vient son nom. 
+Pi décrit ses cours de natation donnés par Mamaji, l’une des relations d’affaires de son père, et la condition des piscines, surtout de la piscine Molitor d’où vient son nom.
+
+### Ch4
+
+Pi décrit son enfance à Zooville. Il affirme que les animaux sont bien heureux dans les zoos et que les animaux sauvages ne sont pas vraiment libres.
