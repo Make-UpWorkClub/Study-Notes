@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d7c8d4891fdf10",
+        "id": "39eb03dfb48290da",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd62ab4af759391",
+            "id": "8286d00f3999992b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -92,7 +97,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md"
+          }
         }
       },
       {
@@ -117,6 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,19 +163,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "0dd62ab4af759391",
+  "active": "8286d00f3999992b",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
     "docs/notes/🎓Secondary 5/English/Opinion essay.md",
+    "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
+    "/docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
     "docs/notes/🎓Secondary 5/English/Comma.md",
     "docs/notes/🎓Secondary 5/English/Capitalization.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
     "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
@@ -181,8 +191,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Épargne.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Impôt.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Normes du travail.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Éducation financière",

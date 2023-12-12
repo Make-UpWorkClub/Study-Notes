@@ -16,9 +16,27 @@ Topic: opinion text
 - Firm, engaging and convincing
 - Addresses to the audience
 
+## Hook
+
+- First sentence of the introduction
+- Must captivate the readers
+- Clearly linked to the thesis
+
+Types:
+- Rhetorical question
+	- Often a moral dilemma
+- Bold statement
+	- Simple
+	- May be controversial
+- Fact / statistics
+- Quote
+- Anecdote 
+	- **Not recommended**
+	- Must be shocking or relatable
+
 ## Thesis
 
+- Last sentence of the introduction
 - States opinion on the topic and 3 reasons
 - Only one side of the argument
-- One complete sentence at the end of the introduction
 - **Do not use 1st person**
