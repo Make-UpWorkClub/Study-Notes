@@ -11,9 +11,13 @@ Formule générale : $a\sqrt{b(x - h)} + k$
 
 ## Restrictions
 
-- $\sqrt x$ => $x \ge 0$
-- $\sqrt a = x$ => $x \ge 0$
-- $-\sqrt a = x$ => $x \le 0$
+$$
+\begin{align}
+\sqrt x \implies x \ge 0 \\
+\sqrt a = x \implies x \ge 0 \\
+-\sqrt a = x \implies x \le 0
+\end{align}
+$$
 
 ## Recherche de la règle
 
