@@ -4,7 +4,7 @@ subject: ANG
 date: 2023-12-05 10:55
 ---
 
-# Opinion essay
+# Opinion Essay
 
 Structure: five paragraphs
 - Introduction
@@ -40,3 +40,14 @@ Types:
 - States opinion on the topic and 3 reasons
 - Only one side of the argument
 - **Do not use 1st person**
+
+## Thesis (restated)
+
+- First part of the conclusion
+- Restates the thesis
+
+## Clincher
+
+- Last sentence of the conclusion
+- Echoes the hook
+- **Do not give extra argument**
