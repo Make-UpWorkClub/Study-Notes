@@ -11,20 +11,41 @@ date: 2023-12-04 15:52
 ### Identité
 
 - Nom = premier pas de l’identité
+- Multireligion
 
 ### Foi et spiritualité
 
 - Le paresseux rappelle le Dieu à Pi, car c’est un miracle qu’il peut survivre même s’il ne bouge presque pas du tout
 - Piscine = symbole de purification
-- Pi n’aime pas l’agnosticisme parce que c’est la foi en la doute
-- Tout le monde naît athée
-- Hindouisme : atman (l’âme de l’être) cherche à s’unir avec Brahma (l’âme de l’univers)
-- Les religions se ressemblent
+- Agnosticisme
+	- Pi n’aime pas parce que c’est la foi en la doute
+		- Mais il croit en de multiples dieux qui se contredisent et ne veut pas en choisir. Hypocrisie ?
+	- Raison
+- Athéisme
+	- Tout le monde naît athée
+- Hindouisme
+	- Atman (l’âme de l’être) cherche à s’unir avec Brahma (l’âme de l’univers)
+	- Jamais pressé
+- Christianisme
+	- Le fils de Dieu paie le prix pour les péchés de l’humanité à cause de l’amour
+	- Pi ne comprends pas comment un dieu accepte l’humiliation et la mort
+	- Jésus est humain
+	- Toujours pressé
+- Islam
+	- Religion de fraternité et de dévotion
+	- Ouvert
+	- Coran
+- Les religions se ressemblent, Pi veut simplement aimer Dieu
 
 ### Nature humaine et survie
 
 ### Relation entre l’homme et l’animal
 
+Zoomorphisme : un animal tient un humain comme l’un des siens
+
+- Santosh : les animaux sont dangereux
+- M. et M. Kumar : les animaux sont merveilleux
+- Pi : les animaux aiment les zoos
 - Certains maltraitent les animaux
 	- Une partie le font pour des raisons religieuses
 
@@ -48,12 +69,23 @@ date: 2023-12-04 15:52
 - Avant Pondichéry : directeur d’un grand hôtel à Madras
 - Après Pondichéry : fondateur, propriétaire et directeur de Zooville
 - A appris le danger des animaux à Pi
+- « citoyen de l’Inde Nouvelle — riche, moderne et laïque »
 
-### Satish Kumar
+### Satish Kumar l’athée
 
 - Maitre de biologie de Pi au Petit Séminaire, son prof préféré
 - S’intéresse aux animaux et fréquente le zoo de Pondichéry
-- Athée
+- Athée et communiste
+
+### Père Martin
+
+- Ouvert et patient
+- A appris le christianisme à Pi
+
+### Satish Kumar le musulman
+
+- Boulanger musulman
+- A appris l’islam à Pi
 
 ## Résumé
 
@@ -128,4 +160,82 @@ Pi parle de sa première rencontre avec Dieu, l’hindouisme et la ressemblance 
 
 #### Ch17
 
-Pi parle de sa rencontre avec Jésus-Christ.
+Pi parle de sa rencontre avec Jésus-Christ durant ses vacances à Munnar.
+
+#### Ch18
+
+Pi raconte sa rencontre avec un boulanger musulman et sa première présence à une prière musulmane.
+
+#### Ch19
+
+Pi demande l’islam au boulanger.
+
+#### Ch20
+
+Pi donne des informations sur le deuxième M. Kumar et sur deux expériences religieuses.
+
+#### Ch21
+
+Yann pense aux mots de Pi pour décrire la religion.
+
+#### Ch22
+
+Pi imagine les derniers mots d’un athée et d’un agnostique.
+
+#### Ch23
+
+Les trois sages qui représentent trois religions s’affrontent devant Pi et ses parents. (Allégorie)
+
+#### Ch24
+
+Ravi dit des blagues sur le fait que Pi a plusieurs religions.
+
+#### Ch25
+
+Pi est forcé de prier plus discrètement à cause des gens qui le traitent avec mépris.
+
+#### Ch26
+
+Pi demande à ses parents d’être baptisé et d’avoir un tapis de prière. Sa mère essaie de le convaincre de ne pas suivre trois religions.
+
+#### Ch27
+
+Les parents de Pi discutent le comportement étrange de leur fils.
+
+#### Ch28
+
+Pi décrit son tapis, ses expériences de prière et son baptême.
+
+#### Ch29
+
+Pi décrit la situation en Inde au milieu des années 70. Mme Gandhi prend le pouvoir, ce qui pousse le père de Pi à décider de déménager au Canada.
+
+#### Ch30
+
+Pi présente sa femme, Meena, à Martel.
+
+#### Ch31
+
+Pi raconte la seule rencontre entre M. et M. Kumar au zoo.
+
+#### Ch32
+
+Pi raconte le phénomène de zoomorphisme.
+
+#### Ch33
+
+Pi montre des photos de son enfance à Martel.
+
+#### Ch34
+
+Le zoo de Pondichéry ferme ses portes et on vend les animaux aux zoos américains.
+
+#### Ch35
+
+Le bateau que prend la famille de Pi, *Tsimtsum*, part.
+
+#### Ch36
+
+Martel rencontre toute la famille de Pi.
+
+### 2<sup>e</sup> partie
