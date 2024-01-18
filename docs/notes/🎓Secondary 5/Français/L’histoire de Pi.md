@@ -39,15 +39,27 @@ date: 2023-12-04 15:52
 
 ### Nature humaine et survie
 
+- « Quand votre propre vie est en danger, votre capacité d’empathie est limitée par une égoïste et terrible soif de survie. »
+- Pour survivre, des membres de l’équipage tentent d’utiliser Pi comme appât pour la hyène
+	- Pi lance le rat au tigre même s’il déteste l’hyène pour avoir tué le zèbre et Jus d’Orange
+- La faim et la soif inhibent la raison de Pi
+	- Il consomme la ration sans penser à en réserver
+	- Il abandonne même son principe de végétarisme
+- Raison vs. nature humaine et foi
+
 ### Relation entre l’homme et l’animal
 
 Zoomorphisme : un animal tient un humain comme l’un des siens
+
+Anthropomorphisme : un animal est attribué des qualités humaines
 
 - Santosh : les animaux sont dangereux
 - M. et M. Kumar : les animaux sont merveilleux
 - Pi : les animaux aiment les zoos
 - Certains maltraitent les animaux
 	- Une partie le font pour des raisons religieuses
+- Pi ne peut pas supporter la chasse des animaux (zèbre)
+- Pi et Richard : partenaires de survie
 
 ## Personnages
 
@@ -239,3 +251,137 @@ Le bateau que prend la famille de Pi, *Tsimtsum*, part.
 Martel rencontre toute la famille de Pi.
 
 ### 2<sup>e</sup> partie
+
+#### Ch37
+
+Le cargo a coulé, Pi sur le bateau de sauvetage essaye de sauver Richard Parker. Il réalise sa folie, mais c’est trop tard : le tigre monte sur le bateau et Pi se jette dans l’eau.
+
+#### Ch38
+
+Pi décrit les quatre premiers jours de son voyage jusqu’au moment où le bateau coule.
+
+#### Ch39
+
+Pi et un zèbre chutent sur un bateau de sauvetage ; Pi ne se blesse pas, mais le zèbre se fracasse.
+
+#### Ch40
+
+Après Ch37, Pi se bat pour se mettre debout sur la rame qu’il a insérée au bord du bateau.
+
+#### Ch41
+
+Pi monte sur le bateau et découvre que Richard n’a pas tué le zèbre et qu’il y a aussi une hyène. La tempête passe et Pi attend.
+
+#### Ch42
+
+À l’aurore du cinquième jour, Jus d’Orange arrive sur le bateau. Pi saisit un filet. Il ne pense pas à récolter les bananes flottant sur la mer —> colossale perte.
+
+#### Ch43
+
+Pi est convaincu que l’aide viendra bientôt. Au matin, il observe l’hyène qui court en cercle désespérément. Il décrit le physique et la prédation des hyènes.
+
+#### Ch44
+
+L’après-midi, Pi est dérangé par des mouches, mais l’hyène en mange la plupart. La nuit passe.
+
+#### Ch45
+
+Le sixième jour, le soleil se lève et à nouveau remplit Pi d’espoir. Il constate que l’hyène a attaqué le zèbre hier. L’après-midi, Pi observe Jus d’Orange qui souffre du mal de mer. Il est surpris que l’orang-outan ignore l’hyène. Ensuite, une grosse tortue de mer apparaît ; Pi lui dit d’aller avertir un bateau.
+
+#### Ch46
+
+La soirée, Pi observe les requins et Jus d’Orange qui songe à ses enfants avec tristesse. Puis, l’hyène est pris par la folie et mange le zèbre vivant. Jus d’Orange et l’hyène s’affrontent avec des hurlements tandis que les requins, sentant du sang, attaquent le bateau.
+
+#### Ch47
+
+Le septième jour, le zèbre meurt. L’hyène décapite Jus d’Orange.
+
+#### Ch48
+
+Le nom de Richard Parker vient d’une erreur. C’est en fait le nom du chasseur qui a attrapé sa mère.
+
+#### Ch49
+
+Le huitième jour, Pi n’a plus peur de l’hyène, car il n’a plus rien à perdre. Il réalise qu’il a soif et cherche de l’eau sur le bateau.
+
+#### Ch50
+
+Pi examine l’extérieur et l’intérieur du bateau et est éclairé par des idées.
+
+#### Ch51
+
+Pi trouve de l’eau et de la nourriture et en consomme.
+
+#### Ch52
+
+Pi fait une liste des rations et des outils.
+
+#### Ch53
+
+Pi construit un radeau. Juste avant qu’il puisse finir, l’hyène irrite Richard qui le tue en un instant. Ensuite, il voit Pi et essaye de le tuer, mais un rat apparaît et les surprend. Pi lance le rat au tigre qui le mange aussitôt. Puis, il dévore l’hyène. Pi achève la construction du radeau et le pousse dans la mer. Il se repose sur le radeau malgré les requins. Il commence à pleuvoir. Pi va chercher le capteur de pluie, mais dérange Richard. Heureusement, celui-ci ne prend pas d’action. Pi ouvre le capteur de pluie et retourne sur le radeau.
+
+#### Ch54
+
+Pi supporte la pluie et le froid en élaborant des plans pour se débarrasser de Richard Parker.
+
+#### Ch55
+
+À l’aube du neuvième jour, la pluie s’arrête. Épuisé, Pi dort jusqu’au matin. Le tigre vient dans sa direction. Il réalise que son plan de guerre d’usure ne marche pas.
+
+#### Ch56
+
+Pi décrit la peur, l’adversaire de la vie.
+
+#### Ch57
+
+Richard fait des cris *prusten* qui signalent sa bonne intention. Pi est stupéfait. Il réalise la nécessité de vivre avec Richard. Il vainc sa peur et essaye de l’apprivoiser avec le sifflet.
+
+#### Ch58
+
+Pi lit le manuel de survie et pense aux choses à faire.
+
+#### Ch59
+
+Pi remarque qu’à cause du radeau, le bateau est parallèle aux vagues, ce qui cause le mal de mer chez Richard. Il observe des cafards se jeter dans l’eau. Il mange la ration et boit de l’eau de étang. Il utilise son urine pour définir son territoire. Il installe les alambics solaires et améliore le radeau. Au crépuscule, il observe les poissons et dort.
+
+#### Ch60
+
+#### Ch61
+
+#### Ch62
+
+#### Ch63
+
+#### Ch64
+
+#### Ch65
+
+#### Ch66
+
+#### Ch67
+
+#### Ch68
+
+#### Ch69
+
+#### Ch70
+
+#### Ch71
+
+#### Ch72
+
+#### Ch73
+
+#### Ch74
+
+#### Ch75
+
+#### Ch76
+
+#### Ch77
+
+#### Ch78
+
+#### Ch79
+
+#### Ch80
