@@ -30,8 +30,5 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "readableLineLength": true,
-  "spellcheckLanguages": [
-    "fr",
-    "en"
-  ]
+  "spellcheckLanguages": null
 }

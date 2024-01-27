@@ -1,4 +1,5 @@
 name: Get latest release from template
+
 on:
   workflow_dispatch:
   schedule:
