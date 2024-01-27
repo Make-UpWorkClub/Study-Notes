@@ -1,0 +1,13 @@
+.direnv
+.venv
+__pycache__
+
+.vscode/settings.json
+.obsidian/plugins/obsidian-mkdocs-publisher/env
+docs/assets/graph.html
+encryptcontent.cache
+desktop.ini
+Pipfile
+Pipfile.lock
+test-env.yml
+payload.json

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "Sec5",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Français",
+      "color": {
+        "a": 1,
+        "rgb": 6726655
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 16741882
+      }
+    },
+    {
+      "query": "path:Mathématiques",
+      "color": {
+        "a": 1,
+        "rgb": 11757311
+      }
+    },
+    {
+      "query": "path:\"Culture et citoyenneté québécoise\"",
+      "color": {
+        "a": 1,
+        "rgb": 4807124
+      }
+    },
+    {
+      "query": "path:\"Éducation financière\"",
+      "color": {
+        "a": 1,
+        "rgb": 4511033
+      }
+    },
+    {
+      "query": "path:Sciences",
+      "color": {
+        "a": 1,
+        "rgb": 15320604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.67977646041744,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 150,
+  "scale": 0.8167594001182948,
+  "close": false
+}
