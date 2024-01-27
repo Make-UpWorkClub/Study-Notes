@@ -18,13 +18,17 @@
       systems = [ "x86_64-linux" ];
       perSystem = { pkgs, ... }: {
         devShells.default = pkgs.mkShell {
-          packages = with pkgs; [
-            python3
-            python3Packages.pip
-            python3Packages.pandas # Fix libstdc++ not found
+          packages =
+            with pkgs;
+            with python3Packages;
+            [
+              python3
+              pip
+              pandas # Fix libstdc++ not found
+              pydantic
 
-            nil
-          ];
+              nil
+            ];
 
           shellHook = ''
             python -m venv .venv

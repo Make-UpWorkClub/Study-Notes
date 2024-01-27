@@ -11,7 +11,7 @@ theme:
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: $language
+    language: en
     palette:
 
     # Light mode
@@ -31,6 +31,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
     features:
         - navigation.indexes
         - navigation.top
@@ -84,7 +85,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: $language
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -127,7 +128,7 @@ extra:
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
-  no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
+  no-auto-h1: true #disable the automatic generation of h1 if no h1 is found
   blog_list:
     pagination: true #enable pagination
     pagination_message: true #display the message "Showing x posts out of y"
