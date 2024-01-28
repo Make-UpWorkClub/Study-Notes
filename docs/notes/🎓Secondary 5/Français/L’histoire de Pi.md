@@ -11,7 +11,10 @@ date: 2023-12-04 15:52
 ### Identité
 
 - Nom = premier pas de l’identité
+- Végétarisme
 - Multireligion
+- Veut un livre sans fin
+- Fasciné par les animaux
 
 ### Foi et spiritualité
 
@@ -53,6 +56,9 @@ Zoomorphisme : un animal tient un humain comme l’un des siens
 
 Anthropomorphisme : un animal est attribué des qualités humaines
 
+- Relation alpha-oméga
+	- Urine pour marquer le territoire
+	- Sifflet pour imiter les cris
 - Santosh : les animaux sont dangereux
 - M. et M. Kumar : les animaux sont merveilleux
 - Pi : les animaux aiment les zoos
@@ -66,7 +72,6 @@ Anthropomorphisme : un animal est attribué des qualités humaines
 ### Pi Molitor Patel
 
 - Nommé après la piscine Molitor
-- Végétarien
 - Observateur
 
 ### Francis « Mamaji » Adirubasamy
@@ -346,17 +351,31 @@ Pi remarque qu’à cause du radeau, le bateau est parallèle aux vagues, ce qui
 
 #### Ch60
 
+Pi réveille une fois durant la nuit pour prier.
+
 #### Ch61
+
+Le matin du dixième jour, Pi s’essaye à la pêche pour la première fois, mais échoue. À la fin de l’après-midi, un poisson volant frappe Pi, qui le lance à Richard. Cependant, le poisson tombe dans l’eau et attire l’attaque des daurades. À la fin de cette attaque, cinq poissons volants sautent sur le bateau. Pi s’efforce pour en tuer un et utilise sa tête pour pêcher une daurade. Il la tue et la donne à Richard.
 
 #### Ch62
 
+Avant l’aube de l’onzième jour, Pi récolte de l’eau potable des alambics solaires. Il en donne un sac à Richard.
+
 #### Ch63
+
+Pi survit 227 jours. Il décrit sa routine.
 
 #### Ch64
 
+Durant la survie, les vêtements de Pi s’effilochent. L’eau salée cause des furoncles.
+
 #### Ch65
 
+Pi essaye en vain de déchiffrer dans le manuel de survie l’information sur la navigation.
+
 #### Ch66
+
+Pi décrit son expérience de pêche.
 
 #### Ch67
 

@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad2629c81c8014d",
+        "id": "3649f961ad8e72b6",
         "type": "tabs",
         "children": [
           {
-            "id": "6bccb4f57bc1cc1c",
+            "id": "89f2705a5fdcffc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
-                "mode": "source",
-                "source": true
+                "file": "flake.lock",
+                "staged": false
               }
             }
           }
@@ -86,7 +85,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -97,9 +95,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md"
-          }
+          "state": {}
         }
       },
       {
@@ -124,7 +120,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,8 +158,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "895938c8236c627c",
+  "active": "89f2705a5fdcffc0",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/Français/Allégorie.md",
     "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
@@ -190,7 +186,6 @@
     "docs/notes/🎓Secondary 5/Sciences/Théorie cinétique des gaz.md",
     "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Éducation financière",
