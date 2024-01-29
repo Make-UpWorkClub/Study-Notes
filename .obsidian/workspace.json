@@ -11,11 +11,10 @@
             "id": "958447bf86dc4949",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
-                "mode": "source",
-                "source": true
+                "file": ".obsidian/hotkeys.json",
+                "staged": false
               }
             }
           }
@@ -96,9 +95,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,6 +167,8 @@
   },
   "active": "958447bf86dc4949",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
     "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
@@ -186,7 +182,6 @@
     "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
-    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/English/Opinion essay.md",
     "docs/notes/🎓Secondary 5/English/Comma.md",
     "docs/notes/🎓Secondary 5/English/Capitalization.md",
@@ -198,7 +193,6 @@
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambivalence.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambiguïté.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Impôts.md",
     "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",

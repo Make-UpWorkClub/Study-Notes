@@ -10,7 +10,8 @@ date: 2023-12-04 15:52
 
 ### Identité
 
-- Nom = premier pas de l’identité
+- Nom = premier pas de l'identité
+- Journal = deuxième pas de l'identité
 - Végétarisme
 - Multireligion
 - Veut un livre sans fin
@@ -57,10 +58,12 @@ Zoomorphisme : un animal tient un humain comme l’un des siens
 Anthropomorphisme : un animal est attribué des qualités humaines
 
 - Relation alpha-oméga
-	- Urine pour marquer le territoire
+	- Urine et vomissure pour marquer le territoire
 	- Sifflet pour imiter les cris
+	- Jouer avec les excréments de Richard pour montrer la domination
 - Santosh : les animaux sont dangereux
 - M. et M. Kumar : les animaux sont merveilleux
+- Pi : les animaux n'aiment pas utiliser la violence
 - Pi : les animaux aiment les zoos
 - Certains maltraitent les animaux
 	- Une partie le font pour des raisons religieuses
@@ -379,23 +382,43 @@ Pi décrit son expérience de pêche.
 
 #### Ch67
 
+Pi décrit le monde de vie marine au-dessous du radeau.
+
 #### Ch68
+
+Pi dort peu à cause de l'appréhension et de l'anxiété tandis que Richard Parker dort beaucoup.
 
 #### Ch69
 
+Au début, Pi est excité quand il croit apercevoir de la lumière au loin, mais après un certain temps, il perd l'espoir d'être sauvé par un navire.
+
 #### Ch70
+
+Pi décrit la première fois qu'il tue une tortue.
 
 #### Ch71
 
+Pi recommande une procédure pour fair obéir un animal au coup de sifflet.
+
 #### Ch72
+
+Pi dresse Richard avec des boucliers de tortue.
 
 #### Ch73
 
+Pi rêve d'un livre qui ne finit jamais. Il commence à écrire un journal de naufrage.
+
 #### Ch74
+
+Malgré les circonstances et des épisodes de doute et de désespoir, Pi continue d'aimer Dieu.
 
 #### Ch75
 
+Pi célèbre l'anniversaire de sa mère.
+
 #### Ch76
+
+Pi et Richard devient constipés à cause du manque d'eau. Pi joue avec les excréments de Richard pour montrer sa domination.
 
 #### Ch77
 
@@ -404,3 +427,45 @@ Pi décrit son expérience de pêche.
 #### Ch79
 
 #### Ch80
+
+#### Ch81
+
+#### Ch82
+
+#### Ch83
+
+#### Ch84
+
+#### Ch85
+
+#### Ch86
+
+#### Ch87
+
+#### Ch88
+
+#### Ch89
+
+#### Ch90
+
+#### Ch91
+
+#### Ch92
+
+#### Ch93
+
+#### Ch94
+
+### 3<sup>e</sup> partie
+
+#### Ch95
+
+#### Ch96
+
+#### Ch97
+
+#### Ch98
+
+#### Ch99
+
+#### Ch100
