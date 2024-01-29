@@ -69,6 +69,7 @@ Anthropomorphisme : un animal est attribué des qualités humaines
 	- Une partie le font pour des raisons religieuses
 - Pi ne peut pas supporter la chasse des animaux (zèbre)
 - Pi et Richard : partenaires de survie
+	- Pi utilise « nous »
 
 ## Personnages
 
@@ -422,27 +423,53 @@ Pi et Richard devient constipés à cause du manque d'eau. Pi joue avec les excr
 
 #### Ch77
 
+Au fur et à mesure que la nourriture diminue, le champ de l’appétit de Pi s’étend. Il essaye même de manger les excréments de Richard. Sa condition se détériore.
+
+%%eww%%
+
 #### Ch78
+
+Pi décrit la désespérance de ses conditions et ses émotions internes.
 
 #### Ch79
 
+Pi exprime son affection pour les requins et sa première chasse des requins.
+
 #### Ch80
+
+Un jour, Pi attrape une grosse daurade qui attire l’attention de Richard. Il est prêt à attaquer Pi, mais celui-ci gagne la bataille de regard. À partir de ce jour, il n’a plus peur du tigre.
 
 #### Ch81
 
+Une autre raison pour laquelle Richard ne tue pas Pi est qu’il est la source de nourriture.
+
 #### Ch82
+
+Pi décrit la collecte d’eau, la nourriture de Richard et le désespoir quand il réalise qu’il mange comme un tigre.
 
 #### Ch83
 
+Une terrible tempête enlève le radeau de Pi et une bonne partie de ses provisions. Pi est blessé, épuisé et déprimé.
+
 #### Ch84
+
+Pi rencontre une baleine. Il parle d’autres animaux qu’il rencontre et les chasses d’un bec-en-ciseaux et d’un fou masqué.
 
 #### Ch85
 
+Pi est émerveillé par des coups de foudre.
+
 #### Ch86
+
+Un énorme pétrolier croisé le bateau. Pi est surexcité, mais il rate la fusée et passe inaperçu.
 
 #### Ch87
 
+Pi s’asphyxie avec un tissu mouillé comme méthode d’évasion.
+
 #### Ch88
+
+Pi croise un amas d’ordures et recueille une bouteille de vin avec bouchon. Il écrit un message, le met dans la bouteille et la jette dans la mer.
 
 #### Ch89
 

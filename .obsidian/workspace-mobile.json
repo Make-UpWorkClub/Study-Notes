@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3649f961ad8e72b6",
+        "id": "b541fa11bcfbd690",
         "type": "tabs",
         "children": [
           {
-            "id": "89f2705a5fdcffc0",
+            "id": "5677ed74f7490373",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "flake.lock",
+                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
                 "staged": false
               }
             }
@@ -158,24 +158,24 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "89f2705a5fdcffc0",
+  "active": "895938c8236c627c",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "/docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
+    "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Français/Allégorie.md",
     "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
     "docs/notes/🎓Secondary 5/English/Comma.md",
     "docs/notes/🎓Secondary 5/English/Capitalization.md",
     "docs/notes/🎓Secondary 5/English/Opinion Essay.md",
     "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
-    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
     "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
-    "/docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
