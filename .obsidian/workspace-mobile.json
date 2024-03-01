@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b541fa11bcfbd690",
+        "id": "8d8f0d2f584b7b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "5677ed74f7490373",
+            "id": "cf176e116eb9c579",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
-                "staged": false
+                "file": "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,6 +86,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,7 +97,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md"
+          }
         }
       },
       {
@@ -120,6 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,8 +151,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 5
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,34 +162,34 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "895938c8236c627c",
+  "active": "ae314a681c0ec466",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
-    "/docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
-    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
-    "docs/notes/🎓Secondary 5/English/Research.md",
-    "docs/notes/🎓Secondary 5/Français/Allégorie.md",
-    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
-    "docs/notes/🎓Secondary 5/English/Comma.md",
-    "docs/notes/🎓Secondary 5/English/Capitalization.md",
-    "docs/notes/🎓Secondary 5/English/Opinion Essay.md",
-    "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
+    "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md",
+    "docs/notes/🎓Secondary 5/Sciences/Onde.md",
+    "docs/notes/🎓Secondary 5/Sciences/Pression.md",
+    "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
+    "docs/notes/🎓Secondary 5/Sciences/Kelvin.md",
     "docs/notes/🎓Secondary 5/Sciences/Conditions normalisées.md",
-    "docs/notes/🎓Secondary 5/English/The Five People You Meet in Heaven.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
     "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
     "docs/notes/🎓Secondary 5/Sciences/Réflexion.md",
-    "docs/notes/🎓Secondary 5/Français/Réalisme.md",
-    "docs/notes/🎓Secondary 5/Français/La Métamorphose.md",
-    "docs/notes/🎓Secondary 5/Sciences/Théorie cinétique des gaz.md",
-    "docs/notes/🎓Secondary 5/Sciences/Lois des gaz.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Coniques.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction valeur absolue.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Lieu géométrique.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction quadratique.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction racine carrée.md",
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
+    "docs/notes/🎓Secondary 5/Français/H muet et aspiré.md",
+    "docs/notes/🎓Secondary 5/Français/Allégorie.md",
+    "docs/notes/🎓Secondary 5/Français/La Dame aux Camélias.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Rationalisation du dénominateur.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Réciproque.md",
+    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "/docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise",
     "docs/notes/🎓Secondary 5/Éducation financière",
     "/docs/notes/🎓Secondary 5/Éducation financière",

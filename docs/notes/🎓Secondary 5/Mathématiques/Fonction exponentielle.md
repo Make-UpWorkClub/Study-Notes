@@ -4,10 +4,10 @@ subject: MAT
 date: 2023-11-08 10:07
 ---
 
-# Fonction rationnelle
+# Fonction exponentielle
 
 Forme générale : $ac^x + k$ où $c > 0$ et $c \ne 1$
-[[Réciproque]] : oui
+[[Réciproque]] : [[Fonction logarithmique]]
 [[Asymptote|Asymptotes]] : horizontale
 
 ## Recherche de la règle

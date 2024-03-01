@@ -6,8 +6,10 @@ date: 2023-09-14
 
 # Fonction racine carrée
 
+A la forme d’une demi-[[Coniques#Parabole|parabole]] horizontale
+
 Formule générale : $a\sqrt{b(x - h)} + k$
-[[Réciproque]] : fonction quadratique
+[[Réciproque]] : [[Fonction quadratique]]
 
 ## Restrictions
 

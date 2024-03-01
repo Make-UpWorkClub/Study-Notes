@@ -6,7 +6,8 @@ date: 2023-10-03 08:31
 
 # Fonction rationnelle
 
-Une fonction définie par le ratio de 2 polynômes
+Une fonction définie par le ratio de 2 binômes
+A la forme d’une paire d’[[Coniques#Hyperbole|hyperboles]]
 
 Forme générale (quotient) :
 $$
@@ -23,12 +24,8 @@ $f(x) = \cfrac{a}{x - h} + k$ *ou* $\cfrac{a'}{b(x - h)} + k$
 « Forme produit » :
 $a = (x - h)(y - k)$
 
-[[Réciproque]] : oui
+[[Réciproque]] : lui-même
 [[Asymptote|Asymptotes]] : horizontale et verticale
-
-> [!abstract] Hyperbole
-> Un type de section conique, une courbe qui s’approche de deux asymptotes.
-> ![[IMG_0050.png|200]]
 
 ## Recherche de la règle
 
