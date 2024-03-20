@@ -36,8 +36,18 @@ Substance qui augmente / diminue la vitesse de réaction en y participant et en 
 $$
 \begin{align}
 v &= k[A]^m[B]^n\dots \\
-\text{où v }&\text{est la vitesse de réaction en }\frac{mol}{L \cdot s} \\
-[A], [B]\dots\ &\text{sont la concentration des réactifs en }\frac{mol}{L} \\
-m, n\dots\ &\text{sont l’ordre de réaction des réactifs}
+\text{où v}&\text{ est la vitesse de réaction en }\frac{mol}{L \cdot s} \\
+k&\text{ est la constante de vitesse de réaction} \\
+[A], [B]\dots&\text{ sont la concentration des réactifs en }\frac{mol}{L} \\
+m, n\dots&\text{ sont l’ordre de réaction des réactifs}
 \end{align}
 $$
+
+$k$ est influencé par la température et la nature
+
+Unité de $k$ varie selon l’ordre global de la réaction :
+
+- 0 -> $mol/L\cdot s$
+- 1 -> $s^{-1}$
+- 2 -> $L/mol\cdot s$
+- 3 -> $L^2/mol^2\cdot s$
