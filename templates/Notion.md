@@ -6,4 +6,4 @@ subject:
 date: {{date}} {{time}}
 ---
 
-# 
+# {{title}}

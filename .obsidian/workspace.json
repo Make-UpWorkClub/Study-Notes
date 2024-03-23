@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/Other/Vue/Common mistakes.md",
+                "file": "docs/notes/Other/Vue/Exposing Component State.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/Other/Vue/Common mistakes.md"
+                "file": "docs/notes/Other/Vue/Exposing Component State.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/Other/Vue/Common mistakes.md",
+                "file": "docs/notes/Other/Vue/Exposing Component State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/Other/Vue/Common mistakes.md",
+                "file": "docs/notes/Other/Vue/Exposing Component State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,10 @@
   },
   "active": "77f11c9b4da0bca2",
   "lastOpenFiles": [
-    "docs/notes/Other/Vue/Props Drilling.md",
-    "docs/notes/Other/Vue/Common mistakes.md",
+    "docs/notes/Other/Vue/Common Mistakes.md",
+    "docs/notes/Other/Vue/Prop Drilling.md",
+    "templates/Notion.md",
+    "docs/notes/Other/Vue/Exposing Component State.md",
     "docs/notes/🎓Secondary 5/Français/L'étranger.md",
     "docs/notes/Other/Vue",
     "docs/notes/Other",
@@ -198,8 +200,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
     "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
     "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",
