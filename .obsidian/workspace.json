@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1064b70b8d0fc2",
+        "id": "d966edff44b9e9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "958447bf86dc4949",
+            "id": "77f11c9b4da0bca2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/hotkeys.json",
-                "staged": false
+                "file": "docs/notes/Other/Vue/Common mistakes.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -95,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/notes/Other/Vue/Common mistakes.md"
+              }
             }
           },
           {
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/notes/Other/Vue/Common mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/notes/Other/Vue/Common mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +170,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "958447bf86dc4949",
+  "active": "77f11c9b4da0bca2",
   "lastOpenFiles": [
+    "docs/notes/Other/Vue/Props Drilling.md",
+    "docs/notes/Other/Vue/Common mistakes.md",
+    "docs/notes/🎓Secondary 5/Français/L'étranger.md",
+    "docs/notes/Other/Vue",
+    "docs/notes/Other",
+    "docs/graph.md",
+    "docs/tags.md",
+    "docs/notes/🎓Secondary 5/Sciences/Vitesse de réaction.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Trigonométrie.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Radian.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Fonction quadratique.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Coniques.md",
+    "docs/notes/🎓Secondary 5/Mathématiques/Angles importants.md",
     "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
@@ -182,17 +200,6 @@
     "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction rationnelle.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction exponentielle.md",
-    "docs/notes/🎓Secondary 5/English/Opinion essay.md",
-    "docs/notes/🎓Secondary 5/English/Comma.md",
-    "docs/notes/🎓Secondary 5/English/Capitalization.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Utilitarisme.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Universalisme.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Stades de développement moral Kohlberg.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Éthique de la vertu.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Dilemme moral.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambivalence.md",
-    "docs/notes/🎓Secondary 5/Culture et citoyenneté québécoise/Ambiguïté.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Capitalisme.md",
     "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",
@@ -202,8 +209,6 @@
     "lib/tom-select/tom-select.css",
     "lib/tom-select/tom-select.complete.min.js",
     "lib/bindings/utils.js",
-    "lib/vis-9.1.2/vis-network.min.js",
-    "lib/vis-9.1.2/vis-network.css",
     "docs/assets/meta/logo.png",
     "docs/notes/📙Secondary 4/Sciences/Révision finale.canvas",
     "docs/assets/img/IMG_0002.jpeg",
