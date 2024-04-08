@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/Other/Vue/Exposing Component State.md",
+                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/Other/Vue/Exposing Component State.md"
+                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/Other/Vue/Exposing Component State.md",
+                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/Other/Vue/Exposing Component State.md",
+                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,13 +170,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "77f11c9b4da0bca2",
+  "active": "0180d079eaaa2119",
   "lastOpenFiles": [
+    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "docs/notes/🎓Secondary 5/Français/L'étranger.md",
+    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
     "docs/notes/Other/Vue/Common Mistakes.md",
+    "docs/notes/Other/Vue/Exposing Component State.md",
     "docs/notes/Other/Vue/Prop Drilling.md",
     "templates/Notion.md",
-    "docs/notes/Other/Vue/Exposing Component State.md",
-    "docs/notes/🎓Secondary 5/Français/L'étranger.md",
     "docs/notes/Other/Vue",
     "docs/notes/Other",
     "docs/graph.md",
@@ -187,7 +189,6 @@
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction quadratique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Coniques.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Angles importants.md",
-    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
@@ -199,7 +200,6 @@
     "docs/notes/🎓Secondary 5/Éducation financière/Chômage.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
     "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
-    "docs/notes/🎓Secondary 5/Mathématiques/Logarithme.md",
     "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",

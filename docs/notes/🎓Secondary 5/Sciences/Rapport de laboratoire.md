@@ -53,6 +53,7 @@ $\%\ d’erreur = |\cfrac{v_{exp.} - v_{théo.}}{v_{théo.}}|$
 ### Déduction
 
 - Ne pas répéter le protocole
+- Répondre au but
 
 ### Sources d’erreur
 
