@@ -11,16 +11,19 @@ date: 2024-03-22 12:36
 ### M. Meursault
 
 - Ergomane
-- Antisocial
+- (Un peu) antisocial
+- Absolument honnête
 - Insensible
 	- Indifférent à sa famille
 	- Voit Marie comme une partenaire sexuelle
+	- Sans ambition
+- Conservateur
 
 ### Marie Cardona
 
 Ancienne dactylo du bureau de M. Meursault
 
-- Heureux
+- Apprécie la vie
 - Aime M. Meursault
 
 ### Salamano
@@ -28,8 +31,10 @@ Ancienne dactylo du bureau de M. Meursault
 Voisin de M. Meursault
 
 - Vieux
-- A le rouge
-- Bat son chien, mais en dépend
+- Veuf
+- A la rougeole de son chien
+- Amicable (aux humains)
+- Bat son chien, mais l'aime beaucoup
 
 ### Raymond Sintès
 
@@ -37,6 +42,13 @@ Voisin de M. Meursault
 
 - Petit, larges épaules, nez de boxeur
 - Bat sa femme soupçonnant la tromperie
+
+### Masson
+
+Ami de Raymond
+
+- Grand, massif de taille et d'épaules
+- Amicable
 
 ## Résumé
 
@@ -55,3 +67,11 @@ M. Meursault travaille comme d'habitude. Le soir, il heurte le vieux Salamano en
 ### IV
 
 Le samedi, M. Meursault et Marie vont à la plage et dorment ensemble. Le matin, elle lui demande s'il l'aime, mais il répond non. À ce moment, Raymond frappe sa maîtresse si fort qu'un agent intervient et lui donne un gifle. Après le déjeuner, Marie part. Vers 3 heures, Raymond visite M. Meursault pour lui parler. Ensuite, ils apprennent que Salamano a perdu son chien.
+
+### V
+
+Raymond téléphone à M. Meursault. Le patron de M. Meursault souhaite installer un bureau à Paris et veut savoir s'il est disposé à venir. Il dit qu'il est content de sa vie et ne veut pas la changer. Le soir, Marie propose de marier M. Meursault, mais celui-ci en est indifférent. Il dîne chez Céleste lors qu'<une étrange femme> entre et commande tous les repas. Ensuite, Salamano, qui n'a pas pu retrouver son chien, lui raconte son histoire. Ils causent un peu.
+
+### VI
+
+Le dimanche, Raymond, Marie et M. Meursault vont à la plage et rencontrent Masson. À l'arrêt d'autobus, ils croisent les Arabes qui suivaient Raymond. Ils profitent de la plage, puis déjeunent. À midi, deux Arabes les trouvent et ouvrent Raymond avec un couteau. Quelques moments après, Raymond et M. Meursault les font fuir à l'aide d'un revolver. M. Meursault retourne à la plage, mais fait face au type de Raymond qui revient. Il le tue avec son revolver.
