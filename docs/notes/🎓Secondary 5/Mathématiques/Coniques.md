@@ -8,7 +8,7 @@ date: 2024-02-05 14:09
 
 [Alloprof](https://www.alloprof.qc.ca/fr/eleves/bv/mathematiques/les-coniques-m1326)
 
-![[IMG_0050.png|300]]
+![[Sections coniques.png|300]]
 
 > [!abstract]+ Lieu géométrique
 > Ensemble de points d'un espace géométrique qui sont caractérisés par une propriété métrique commune

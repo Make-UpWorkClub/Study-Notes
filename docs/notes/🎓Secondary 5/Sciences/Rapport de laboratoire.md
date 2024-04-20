@@ -14,8 +14,8 @@ date: 2023-09-15
 - Les zéros à la fin sont préservés
 
 > [!example]+
-> 5.6000 => $5.6000 * 10^0$ => 5 chiffres significatifs
-> 0.02 => $2 * 10^{-2}$ => 1 chiffre significatif
+> 5.6000 -> $5.6000 * 10^0$ -> 5 chiffres significatifs
+> 0.02 -> $2 * 10^{-2}$ -> 1 chiffre significatif
 
 ### Imprécision
 

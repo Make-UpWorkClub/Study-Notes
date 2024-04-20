@@ -30,7 +30,7 @@ Solution: maintain a local copy of the data to mutate
 ## Not Cleaning Up Event Listeners
 
 Components are not gc'ed if they have active event listeners
-`v-if` destroys and recreates components -> Memory leak
+`v-if` destroys and recreates components ==> Memory leak
 
 Solutions:
 
@@ -49,6 +49,6 @@ Solutions:
 
 ## Calling Composables in the Wrong Place
 
-Vue cannot determine the active component => Life-cycle hooks and watchers cannot be linked to the component
+Vue cannot determine the active component ==> Life-cycle hooks and watchers cannot be linked to the component
 
 Solution: always use composables at the top level of components or composables

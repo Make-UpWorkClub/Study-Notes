@@ -6,7 +6,7 @@ date: 2023-12-05 10:55
 
 # Opinion Essay
 
-Structure: five paragraphs
+Structure: five / four paragraphs
 
 - Introduction
 - 3 Bodies
@@ -57,7 +57,7 @@ First sentence of a body paragraph that states its topic (part of thesis)
 
 - **Not a question**
 
-### Supporting Detail
+### Supporting Details
 
 Sentences in a body paragraph that justify, explain and bolster the topic
 

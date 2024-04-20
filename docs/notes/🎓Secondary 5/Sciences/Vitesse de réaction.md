@@ -18,18 +18,16 @@ Influencée par :
 	- Brassage
 - Catalyseur / inhibiteur
 
-> [!abstract] Collision élastique
+> [!abstract]+ Collision élastique
 > Collision des particles qui ne perd pas de l’énergie et qui *n’entraîne pas* la formation de produits
 
-> [!abstract] Collision efficace
+> [!abstract]+ Collision efficace
 > Collision des particles à énergie suffisante et à angle approprié qui *entraîne* la formation de produits
 
-## Catalyseur / inhibiteur
-
-Substance qui augmente / diminue la vitesse de réaction en y participant et en abaissant / haussant l’énergie d’activation. Elle n’est pas dans les produits finaux, donc peut être utilisée plusieurs fois.
-
-> [!abstract] Enzyme
-> Protéine catalysant qui rend possible la majorité des réactions dans les organismes vivants
+> [!abstract]+ Catalyseur / inhibiteur
+> Substance qui augmente / diminue la vitesse de réaction en y participant et en abaissant / haussant l’énergie d’activation. Le catalyseur n’est pas dans les produits finaux, donc peut être réutilisé, contrairement à l’inhibiteur.
+> > [!abstract]+ Enzyme
+> > Protéine catalysant qui rend possible la majorité des réactions dans les organismes vivants
 
 ## Loi de vitesse de réaction
 
@@ -43,7 +41,7 @@ m, n\dots&\text{ sont l’ordre de réaction des réactifs}
 \end{align}
 $$
 
-$k$ est influencé par la température et la nature
+$k$ est influencé par la température et la nature.
 
 Unité de $k$ varie selon l’ordre global de la réaction :
 

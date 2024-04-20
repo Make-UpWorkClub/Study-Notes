@@ -21,7 +21,7 @@ Paramètres :
 - Fréquence $f$
 - Période $T$
 
-![[IMG_0051.png|300]]
+![[Onde.png|300]]
 
 $v = \cfrac{d}{\Delta t}$
 $v = \cfrac \lambda T$
