@@ -11,11 +11,10 @@
             "id": "77f11c9b4da0bca2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
-                "mode": "source",
-                "source": true
+                "staged": false
               }
             }
           }
@@ -66,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.00271224975586
+    "width": 276.00271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "c6fc17e22db4e4c6",
@@ -96,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/🎓Secondary 5/Français/L'étranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,14 +167,20 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "0180d079eaaa2119",
+  "active": "77f11c9b4da0bca2",
   "lastOpenFiles": [
-    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
     "docs/notes/🎓Secondary 5/Français/L'étranger.md",
-    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
+    "docs/notes/🎓Secondary 5/Éducation financière/Fiscalité.md",
+    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
     "docs/notes/Other/Vue/Common Mistakes.md",
+    "docs/notes/🎓Secondary 5/Sciences/Équilibre de réaction.md",
+    "docs/assets/img/Sections coniques.png",
+    "docs/assets/img/Onde.png",
+    "docs/assets/img/Henry Le Chatelier.jpg",
     "docs/notes/Other/Vue/Exposing Component State.md",
     "docs/notes/Other/Vue/Prop Drilling.md",
+    "docs/notes/🎓Secondary 5/Français/L’histoire de Pi.md",
+    "docs/notes/🎓Secondary 5/Sciences/Rapport de laboratoire.md",
     "templates/Notion.md",
     "docs/notes/Other/Vue",
     "docs/notes/Other",
@@ -192,14 +195,11 @@
     "docs/notes/🎓Secondary 5/English/Research.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Fonction logarithmique.md",
     "docs/notes/🎓Secondary 5/Mathématiques/Asymptote.md",
-    "docs/notes/🎓Secondary 5/Français/Accords particuliers.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Épargne.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Taxe.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Normes du travail.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Impôt.md",
     "docs/notes/🎓Secondary 5/Éducation financière/Chômage.md",
-    "docs/notes/🎓Secondary 5/Éducation financière/Assurance-emploi.md",
-    "docs/notes/🎓Secondary 5/Sciences/Réfraction.md",
     "docs/notes/📙Secondary 4/Histoire/Grande noirceur, révolution tranquille & plus.canvas",
     "docs/notes/🎓Secondary 5/Monde",
     "lib/vis-9.1.2",
