@@ -8,7 +8,7 @@ date: 2023-09-14
 
 A la forme d’une demi-[[Coniques#Parabole|parabole]] horizontale
 
-Formule générale : $a\sqrt{b(x - h)} + k$
+Forme générale : $a\sqrt{b(x - h)} + k$
 [[Réciproque]] : [[Fonction quadratique]]
 
 ## Restrictions

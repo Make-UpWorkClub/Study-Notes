@@ -11,11 +11,11 @@ A la forme d’une paire d’[[Coniques#Hyperbole|hyperboles]]
 
 Forme générale (quotient) :
 $$
-\begin{split}
+\begin{align}
 f(x) &= \cfrac{a_1x + b_1}{a_2x + b_2}\\
-h &= -\cfrac{b_2}{a_2},\ &k &= \cfrac{a_1}{a_2}\\
-ord. à\ l'origine &= \cfrac{b_1}{b_2},\ abs. à\ l'origin&e &= -\cfrac{b_1}{a_1}
-\end{split}
+h &= -\cfrac{b_2}{a_2} & k &= \cfrac{a_1}{a_2}\\
+\text{ord. à l'origine} &= \cfrac{b_1}{b_2} & \text{abs. à l'origine} &= -\cfrac{b_1}{a_1}
+\end{align}
 $$
 
 Forme canonique :
@@ -24,7 +24,7 @@ $f(x) = \cfrac{a}{x - h} + k$ *ou* $\cfrac{a'}{b(x - h)} + k$
 « Forme produit » :
 $a = (x - h)(y - k)$
 
-[[Réciproque]] : lui-même
+[[Réciproque]] : fonction rationnelle
 [[Asymptote|Asymptotes]] : horizontale et verticale
 
 ## Recherche de la règle
